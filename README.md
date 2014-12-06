@@ -1,124 +1,189 @@
-<p><a href="http://chingc.tumblr.com/image/39362545352"><img alt="DJ Dao Real Edition Double" src="http://24.media.tumblr.com/dcd7199d9c7167f0cf317c9734433fb1/tumblr_mfxn6aAUy81rrhjhbo1_500.jpg"/></a></p>
+![IIDX Lincle + Real Edition Double](https://github.com/chingc/IIDX-Progress/raw/master/src/common/images/lincle.jpg)
 
-<h2>The Road to 皆伝</h2>
 
-<p>I think it would be interesting to track my IIDX progress, so I’ve decided to create this space. I will record accomplishments and thoughts about the game as I continue my lengthy journey. — 2013-01-10</p>
+# The Road to 皆伝
 
-<h3>SP Timeline</h3>
+I think it would be interesting to track my IIDX progress, so I’ve decided to create this space. I will record
+accomplishments and thoughts about the game as I continue my lengthy journey. - 2013-01-10
 
-<hr><pre>       TBA 九段 Rank
-2014-01-30 八段 Rank
-2014-06-02 七段 Rank  :V
-2013-02-04 六段 Rank
-2013-01-16 五段 Rank
-2012-10-28 四段 Rank
-2012-10-28 三段 Rank
-2012-06-15 二段 Rank
-2012-06-15 初段 Rank
-2012-06-06 一級 Rank
-2012-06-06 二級 Rank
-2012-06-06 三級 Rank
-2012-06-06 四級 Rank
-2012-06-06 五級 Rank
-2012-06-06 六級 Rank
-2012-06-06 七級 Rank
 
-       TBA All Level 3 AAA
-       TBA All Level 2 AAA
-2013-09-08 All Level 1 AAA
+### Work In Progress
 
-       TBA All Level 6 AA
-       TBA All Level 5 AA
-2013-06-08 All Level 4 AA
-2013-06-08 All Level 3 AA
-2013-06-08 All Level 2 AA
-2013-06-08 All Level 1 AA
+* 段位認定
+    * 九段
+* Lamp
+    * All Level 11 Played
+    * All Level 10 Easy Clear
+    * All Level 9 Hard Clear
+    * All Level 8 Hard Clear
+    * All Level 7 EX Hard Clear
+    * All Level 6 EX Hard Clear
+    * All Level 5 Full Combo
+* Grade
+    * All Level 3 AAA
+    * All Level 2 AAA
+    * All Level 6 AA
+    * All Level 5 AA
+    * All Level 9 A
+    * All Level 8 A
+* First!
+    * First 12: ?
+    * First 10 AAA: ?
+    * First 10 Full Combo: ?
 
-       TBA All Level 8 A
-2013-09-29 All Level 7 A
-2013-07-20 All Level 6 A
-2013-06-08 All Level 5 A
-2013-06-08 All Level 4 A
-2013-06-08 All Level 3 A
-2013-06-08 All Level 2 A
-2013-06-08 All Level 1 A
 
-       TBA All Level 11 Played
+### SP 段位認定
 
-       TBA All Level 10 Easy Clear
-2014-05-26 All Level 10 Played
+* 2014-01-30 八段
+* 2014-06-02 七段  :V
+* 2013-02-04 六段
+* 2013-01-16 五段
+* 2012-10-28 四段
+* 2012-10-28 三段
+* 2012-06-15 二段
+* 2012-06-15 初段
+* 2012-06-06 一級
+* 2012-06-06 二級
+* 2012-06-06 三級
+* 2012-06-06 四級
+* 2012-06-06 五級
+* 2012-06-06 六級
+* 2012-06-06 七級
 
-       TBA All Level 9 Hard Clear
-2013-08-30 All Level 9 Normal Clear
-2013-08-30 All Level 9 Easy Clear
-2013-03-08 All Level 9 Played
 
-       TBA All Level 8 Hard Clear
-2014-01-17 All Level 8 Normal Clear
-2013-09-02 All Level 8 Easy Clear
-2013-01-06 All Level 8 Played
+### SP All Level 10
 
-       TBA All Level 7 EX Hard Clear
-2013-12-07 All Level 7 Hard Clear
-2013-02-12 All Level 7 Normal Clear
-2012-10-06 All Level 7 Played
+* Lamp
+    * 2014-05-26 Played
 
-       TBA All Level 6 EX Hard Clear
-2013-03-17 All Level 6 Hard Clear
-2013-01-07 All Level 6 Normal Clear
-2012-09-23 All Level 6 Played
 
-       TBA All Level 5 Full Combo
-2013-09-02 All Level 5 EX Hard Clear
-2013-01-14 All Level 5 Hard Clear
-2012-06-08 All Level 5 Normal Clear
-2012-06-01 All Level 5 Played
+### SP All Level 9
 
-2014-11-23 All Level 4 Full Combo
-2013-06-07 All Level 4 EX Hard Clear
-2012-12-01 All Level 4 Hard Clear
-2012-06-15 All Level 4 Normal Clear
-2012-05-21 All Level 4 Played
+* Lamp
+    * 2013-08-30 Normal Clear
+    * 2013-08-30 Easy Clear
+    * 2013-03-08 Played
 
-2013-08-18 All Level 3 Full Combo
-2012-11-21 All Level 3 EX Hard Clear
-2011-11-27 All Level 3 Hard Clear
-2011-11-17 All Level 3 Normal Clear
-2011-11-13 All Level 3 Played
 
-2012-11-15 All Level 2 Full Combo
-2012-11-15 All Level 2 EX Hard Clear
-2011-08-03 All Level 2 Hard Clear
-2011-08-03 All Level 2 Normal Clear
-2011-08-03 All Level 2 Played
+### SP All Level 8
 
-2012-11-12 All Level 1 Full Combo
-2012-11-12 All Level 1 EX Hard Clear
-2011-07-16 All Level 1 Hard Clear
-2011-07-16 All Level 1 Normal Clear
-2011-06-19 All Level 1 Played
+* Lamp
+    * 2014-01-17 Normal Clear
+    * 2013-09-02 Easy Clear
+    * 2013-01-06 Played
 
-       TBA First 10 AAA: ?
-2014-10-19 First 9 AAA: the trigger of innocence [A]
-2013-11-10 First 8 AAA: PROMISE FOR LIFE [A]
-2012-06-03 First AAA: I FIGHT ME [N]
 
-       TBA First 10 Full Combo: ?
-2014-05-11 First 9 Full Combo: We are Disっ娘よっつ打ち命 [A]
-2013-02-25 First 8 Full Combo: One of A Kind [H]
-2011-07-21 First Full Combo: FLOWERS for ALBION [N]
+### SP All Level 7
 
-       TBA First 12: ?
-2013-05-23 First 11: Halfway of promise [A]
-2013-02-05 First 10: PHOTONGENIC [H]
-2013-01-15 First 9: quasar [H]
-2012-06-23 First 8: ЁVOLUTIΦN [H]
+* Grade
+    * 2013-09-29 A
+* Lamp
+    * 2013-12-07 Hard Clear
+    * 2013-02-12 Normal Clear
+    * 2012-10-06 Played
 
-2014-06-19 Year 4 Begins
-2013-06-19 Year 3 Begins
-2012-06-19 Year 2 Begins
-2011-06-19 Year 1 Begins
-</pre>
+
+### SP All Level 6
+
+* Grade
+    * 2013-07-20 A
+* Lamp
+    * 2013-03-17 Hard Clear
+    * 2013-01-07 Normal Clear
+    * 2012-09-23 Played
+
+
+### SP All Level 5
+
+* Grade
+    * 2013-06-08 A
+* Lamp
+    * 2013-09-02 EX Hard Clear
+    * 2013-01-14 Hard Clear
+    * 2012-06-08 Normal Clear
+    * 2012-06-01 Played
+
+
+### SP All Level 4
+
+* Grade
+    * 2013-06-08 AA
+    * 2013-06-08 A
+* Lamp
+    * 2014-11-23 Full Combo
+    * 2013-06-07 EX Hard Clear
+    * 2012-12-01 Hard Clear
+    * 2012-06-15 Normal Clear
+    * 2012-05-21 Played
+
+
+### SP All Level 3
+
+* Grade
+    * 2013-06-08 AA
+    * 2013-06-08 A
+* Lamp
+    * 2013-08-18 Full Combo
+    * 2012-11-21 EX Hard Clear
+    * 2011-11-27 Hard Clear
+    * 2011-11-17 Normal Clear
+    * 2011-11-13 Played
+
+
+### SP All Level 2
+
+* Grade
+    * 2013-06-08 AA
+    * 2013-06-08 A
+* Lamp
+    * 2012-11-15 Full Combo
+    * 2012-11-15 EX Hard Clear
+    * 2011-08-03 Hard Clear
+    * 2011-08-03 Normal Clear
+    * 2011-08-03 Played
+
+
+### SP All Level 1
+
+* Grade
+    * 2013-09-08 AAA
+    * 2013-06-08 AA
+    * 2013-06-08 A
+* Lamp
+    * 2012-11-12 Full Combo
+    * 2012-11-12 EX Hard Clear
+    * 2011-07-16 Hard Clear
+    * 2011-07-16 Normal Clear
+    * 2011-06-19 Played
+
+
+### First!
+
+* AAA
+    * 2014-10-19 Level 9: the trigger of innocence [A]
+    * 2013-11-10 Level 8: PROMISE FOR LIFE [A]
+    * 2012-06-03 Level 1: I FIGHT ME [N]
+* Full Combo
+    * 2014-05-11 Level 9: We are Disっ娘よっつ打ち命 [A]
+    * 2013-02-25 Level 8: One of A Kind [H]
+    * 2011-07-21 Level 1: FLOWERS for ALBION [N]
+* New Level
+    * 2013-05-23 First 11: Halfway of promise [A]
+    * 2013-02-05 First 10: PHOTONGENIC [H]
+    * 2013-01-15 First 9: quasar [H]
+    * 2012-06-23 First 8: ЁVOLUTIΦN [H]
+
+
+### Time Spent
+
+* 2014-06-19 Year 4 Begins
+* 2013-06-19 Year 3 Begins
+* 2012-06-19 Year 2 Begins
+* 2011-06-19 Year 1 Begins
+
+
+
+
 
 <h3>DP Timeline</h3>
 
