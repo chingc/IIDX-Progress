@@ -157,7 +157,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. - 
     * 2011-06-19 Played
 
 
-### First!
+### SP First!
 
 * AAA
     * 2014-10-19 Level 9: the trigger of innocence [A]
@@ -168,13 +168,13 @@ accomplishments and thoughts about the game as I continue my lengthy journey. - 
     * 2013-02-25 Level 8: One of A Kind [H]
     * 2011-07-21 Level 1: FLOWERS for ALBION [N]
 * New Level
-    * 2013-05-23 First 11: Halfway of promise [A]
-    * 2013-02-05 First 10: PHOTONGENIC [H]
-    * 2013-01-15 First 9: quasar [H]
-    * 2012-06-23 First 8: ЁVOLUTIΦN [H]
+    * 2013-05-23 Level 11: Halfway of promise [A]
+    * 2013-02-05 Level 10: PHOTONGENIC [H]
+    * 2013-01-15 Level 9: quasar [H]
+    * 2012-06-23 Level 8: ЁVOLUTIΦN [H]
 
 
-### Time Spent
+### SP Time Spent
 
 * 2014-06-19 Year 4 Begins
 * 2013-06-19 Year 3 Begins
