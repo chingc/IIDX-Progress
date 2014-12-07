@@ -23,10 +23,14 @@ accomplishments and thoughts about the game as I continue my lengthy journey. - 
     * All Level 6 EX Hard Clear
     * All Level 5 Full Combo
 * Grade
+    * All Level 4 AAA
     * All Level 3 AAA
     * All Level 2 AAA
+    * All Level 7 AA
     * All Level 6 AA
     * All Level 5 AA
+    * All Level 11 A
+    * All Level 10 A
     * All Level 9 A
     * All Level 8 A
 * First!
@@ -54,14 +58,22 @@ accomplishments and thoughts about the game as I continue my lengthy journey. - 
 * 2012-06-06 七級
 
 
+### SP All Level 11
+
+* Grade
+* Lamp
+
+
 ### SP All Level 10
 
+* Grade
 * Lamp
     * 2014-05-26 Played
 
 
 ### SP All Level 9
 
+* Grade
 * Lamp
     * 2013-08-30 Normal Clear
     * 2013-08-30 Easy Clear
@@ -70,6 +82,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. - 
 
 ### SP All Level 8
 
+* Grade
 * Lamp
     * 2014-01-17 Normal Clear
     * 2013-09-02 Easy Clear
@@ -146,7 +159,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. - 
     * 2011-08-03 Played
 
 
-### SP All Level 1
+### SP All Level 1 (Complete!)
 
 * Grade
     * 2013-09-08 AAA
@@ -194,37 +207,42 @@ accomplishments and thoughts about the game as I continue my lengthy journey. - 
     * 七段
 * Lamp
     * All Level 7 Normal Clear
-    * All Level 6 Full Combo
-    * All Level 5 Full Combo
-    * All Level 4 Full Combo
-    * All Level 3 Full Combo
+    * All Level 6 EX Hard Clear
+    * All Level 5 EX Hard Clear
+    * All Level 4 EX Hard Clear
+    * All Level 3 EX Hard Clear
 * Grade
+    * All Level 3 AAA
+    * All Level 2 AAA
     * All Level 1 AAA
+    * All Level 5 AA
     * All Level 4 AA
     * All Level 7 A
     * All Level 6 A
 * First!
+    * First 10: ?
     * First 8 Full Combo: ?
     * First 7 AAA: ?
 
 
 ### DP 段位認定
 
-* 2013-12-13 六段 Rank
-* 2013-08-31 五段 Rank
-* 2013-05-24 四段 Rank
-* 2013-05-14 三段 Rank
-* 2013-02-11 二段 Rank
-* 2013-01-14 初段 Rank
-* 2012-12-26 一級 Rank
-* 2012-12-26 二級 Rank
-* 2012-12-26 三級 Rank
-* 2012-12-24 四級 Rank
-* 2012-12-24 五級 Rank
+* 2013-12-13 六段
+* 2013-08-31 五段
+* 2013-05-24 四段
+* 2013-05-14 三段
+* 2013-02-11 二段
+* 2013-01-14 初段
+* 2012-12-26 一級
+* 2012-12-26 二級
+* 2012-12-26 三級
+* 2012-12-24 四級
+* 2012-12-24 五級
 
 
 ### DP All Level 7
 
+* Grade
 * Lamp
     * 2014-06-21 Easy Clear
     * 2014-01-23 Played
@@ -232,6 +250,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. - 
 
 ### DP All Level 6
 
+* Grade
 * Lamp
     * 2013-12-19 Hard Clear
     * 2013-12-18 Normal Clear
@@ -276,6 +295,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. - 
     * 2013-07-01 A
 * Lamp
     * 2013-03-19 Full Combo
+    * 2013-03-19 EX Hard Clear
     * 2013-01-24 Hard Clear
     * 2012-12-21 Normal Clear
     * 2012-12-21 Played
@@ -288,6 +308,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. - 
     * 2013-07-01 A
 * Lamp
     * 2013-01-24 Full Combo
+    * 2013-01-24 EX Hard Clear
     * 2013-01-24 Hard Clear
     * 2012-12-21 Normal Clear
     * 2012-12-21 Played
@@ -296,10 +317,10 @@ accomplishments and thoughts about the game as I continue my lengthy journey. - 
 ### DP First!
 
 * AAA
-    * 2013-05-15 First AAA: 8bit Princess [N]
+    * 2013-05-15 8bit Princess [N]
 * Full Combo
-    * 2013-12-28 First 7 Full Combo: EXTREMA PT.2 [H]
-    * 2012-12-21 First Full Combo: GAMBOL [N]
+    * 2013-12-28 Level 7: EXTREMA PT.2 [H]
+    * 2012-12-21 GAMBOL [N]
 * New Level
     * 2013-11-27 Level 9: MAX LOVE [H]
     * 2013-09-15 Level 8: Survival Games [H]
@@ -312,6 +333,9 @@ accomplishments and thoughts about the game as I continue my lengthy journey. - 
 * 2012-12-21 Year 1 Begins
 
 
+- - - - - - - - - - - - - - - - - - - -
+
+
 ### Play Count
 
 * 2014-09-05 5,000 Games Logged
@@ -321,40 +345,39 @@ accomplishments and thoughts about the game as I continue my lengthy journey. - 
 * 2012-10-16 1,000 Games Logged
 
 
+- - - - - - - - - - - - - - - - - - - -
 
 
+### 1P Side 段位認定
 
-<h3>1P Side 段位認定 Timeline</h3>
-
-<hr><pre>       TBA 五段 Rank
-2013-12-01 四段 Rank
-2013-12-01 三段 Rank
-2013-12-01 二段 Rank
-2013-12-01 初段 Rank
-2013-12-01 一級 Rank
-2013-12-01 二級 Rank
-2013-12-01 三級 Rank
-2013-12-01 四級 Rank
-2013-12-01 五級 Rank
-2013-12-01 六級 Rank
-2013-12-01 七級 Rank
-</pre>
-
-<h3>1-Hand 段位認定 Timeline</h3>
-
-<hr><pre>      Left      Right
-       TBA        TBA 二段 Rank
-2013-10-05 2014-01-15 初段 Rank
-2013-10-05 2013-10-05 一級 Rank
-2013-10-05 2013-10-05 二級 Rank
-2013-10-05 2013-10-05 三級 Rank
-2013-10-05 2013-10-05 四級 Rank
-2013-10-05 2013-10-05 五級 Rank
-2013-10-05 2013-10-05 六級 Rank
-2013-10-05 2013-10-05 七級 Rank
-</pre>
+* 2013-12-01 四段
+* 2013-12-01 三段
+* 2013-12-01 二段
+* 2013-12-01 初段
+* 2013-12-01 一級
+* 2013-12-01 二級
+* 2013-12-01 三級
+* 2013-12-01 四級
+* 2013-12-01 五級
+* 2013-12-01 六級
+* 2013-12-01 七級
 
 
+### 1-Hand 段位認定
+
+Left | Right | Rank
+---- | ----- | ----
+2013-10-05 | 2014-01-15 | 初段
+2013-10-05 | 2013-10-05 | 一級
+2013-10-05 | 2013-10-05 | 二級
+2013-10-05 | 2013-10-05 | 三級
+2013-10-05 | 2013-10-05 | 四級
+2013-10-05 | 2013-10-05 | 五級
+2013-10-05 | 2013-10-05 | 六級
+2013-10-05 | 2013-10-05 | 七級
+
+
+- - - - - - - - - - - - - - - - - - - -
 
 
 <h3>Patterns, Techniques, &amp; Comments</h3>
