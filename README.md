@@ -7,7 +7,10 @@ I think it would be interesting to track my IIDX progress, so I’ve decided to 
 accomplishments and thoughts about the game as I continue my lengthy journey. - 2013-01-10
 
 
-### Work In Progress
+- - - - - - - - - - - - - - - - - - - -
+
+
+### SP Work In Progress
 
 * 段位認定
     * 九段
@@ -162,11 +165,11 @@ accomplishments and thoughts about the game as I continue my lengthy journey. - 
 * AAA
     * 2014-10-19 Level 9: the trigger of innocence [A]
     * 2013-11-10 Level 8: PROMISE FOR LIFE [A]
-    * 2012-06-03 Level 1: I FIGHT ME [N]
+    * 2012-06-03 I FIGHT ME [N]
 * Full Combo
     * 2014-05-11 Level 9: We are Disっ娘よっつ打ち命 [A]
     * 2013-02-25 Level 8: One of A Kind [H]
-    * 2011-07-21 Level 1: FLOWERS for ALBION [N]
+    * 2011-07-21 FLOWERS for ALBION [N]
 * New Level
     * 2013-05-23 Level 11: Halfway of promise [A]
     * 2013-02-05 Level 10: PHOTONGENIC [H]
@@ -182,98 +185,144 @@ accomplishments and thoughts about the game as I continue my lengthy journey. - 
 * 2011-06-19 Year 1 Begins
 
 
+- - - - - - - - - - - - - - - - - - - -
+
+
+### DP Work In Progress
+
+* 段位認定
+    * 七段
+* Lamp
+    * All Level 7 Normal Clear
+    * All Level 6 Full Combo
+    * All Level 5 Full Combo
+    * All Level 4 Full Combo
+    * All Level 3 Full Combo
+* Grade
+    * All Level 1 AAA
+    * All Level 4 AA
+    * All Level 7 A
+    * All Level 6 A
+* First!
+    * First 8 Full Combo: ?
+    * First 7 AAA: ?
+
+
+### DP 段位認定
+
+* 2013-12-13 六段 Rank
+* 2013-08-31 五段 Rank
+* 2013-05-24 四段 Rank
+* 2013-05-14 三段 Rank
+* 2013-02-11 二段 Rank
+* 2013-01-14 初段 Rank
+* 2012-12-26 一級 Rank
+* 2012-12-26 二級 Rank
+* 2012-12-26 三級 Rank
+* 2012-12-24 四級 Rank
+* 2012-12-24 五級 Rank
+
+
+### DP All Level 7
+
+* Lamp
+    * 2014-06-21 Easy Clear
+    * 2014-01-23 Played
+
+
+### DP All Level 6
+
+* Lamp
+    * 2013-12-19 Hard Clear
+    * 2013-12-18 Normal Clear
+    * 2013-02-22 Played
+
+
+### DP All Level 5
+
+* Grade
+    * 2013-10-19 A
+* Lamp
+    * 2013-10-19 Hard Clear
+    * 2013-05-24 Normal Clear
+    * 2013-01-24 Played
+
+
+### DP All Level 4
+
+* Grade
+    * 2013-09-15 A
+* Lamp
+    * 2013-02-05 Hard Clear
+    * 2013-02-05 Normal Clear
+    * 2012-12-25 Played
+
+
+### DP All Level 3
+
+* Grade
+    * 2013-09-14 AA
+    * 2013-08-23 A
+* Lamp
+    * 2013-02-01 Hard Clear
+    * 2013-02-01 Normal Clear
+    * 2012-12-22 Played
+
+
+### DP All Level 2
+
+* Grade
+    * 2013-09-14 AA
+    * 2013-07-01 A
+* Lamp
+    * 2013-03-19 Full Combo
+    * 2013-01-24 Hard Clear
+    * 2012-12-21 Normal Clear
+    * 2012-12-21 Played
+
+
+### DP All Level 1
+
+* Grade
+    * 2013-09-14 AA
+    * 2013-07-01 A
+* Lamp
+    * 2013-01-24 Full Combo
+    * 2013-01-24 Hard Clear
+    * 2012-12-21 Normal Clear
+    * 2012-12-21 Played
+
+
+### DP First!
+
+* AAA
+    * 2013-05-15 First AAA: 8bit Princess [N]
+* Full Combo
+    * 2013-12-28 First 7 Full Combo: EXTREMA PT.2 [H]
+    * 2012-12-21 First Full Combo: GAMBOL [N]
+* New Level
+    * 2013-11-27 Level 9: MAX LOVE [H]
+    * 2013-09-15 Level 8: Survival Games [H]
+    * 2013-02-22 Level 7: Drive Me Crazy [H]
+
+
+### DP Time Spent
+
+* 2013-12-21 Year 2 Begins
+* 2012-12-21 Year 1 Begins
+
+
+### Play Count
+
+* 2014-09-05 5,000 Games Logged
+* 2014-01-02 4,000 Games Logged
+* 2013-09-07 3,000 Games Logged
+* 2013-03-04 2,000 Games Logged
+* 2012-10-16 1,000 Games Logged
 
 
 
-<h3>DP Timeline</h3>
 
-<hr><pre>       TBA 七段 Rank
-2013-12-13 六段 Rank
-2013-08-31 五段 Rank
-2013-05-24 四段 Rank
-2013-05-14 三段 Rank
-2013-02-11 二段 Rank
-2013-01-14 初段 Rank
-2012-12-26 一級 Rank
-2012-12-26 二級 Rank
-2012-12-26 三級 Rank
-2012-12-24 四級 Rank
-2012-12-24 五級 Rank
-
-       TBA All Level 1 AAA
-
-       TBA All Level 4 AA
-2013-09-14 All Level 3 AA
-2013-09-14 All Level 2 AA
-2013-09-14 All Level 1 AA
-
-       TBA All Level 7 A
-       TBA All Level 6 A
-2013-10-19 All Level 5 A
-2013-09-15 All Level 4 A
-2013-08-23 All Level 3 A
-2013-07-01 All Level 2 A
-2013-07-01 All Level 1 A
-
-       TBA All Level 7 Normal Clear
-2014-06-21 All Level 7 Easy Clear
-2014-01-23 All Level 7 Played
-
-       TBA All Level 6 Full Combo
-2013-12-19 All Level 6 Hard Clear
-2013-12-18 All Level 6 Normal Clear
-2013-02-22 All Level 6 Played
-
-       TBA All Level 5 Full Combo
-2013-10-19 All Level 5 Hard Clear
-2013-05-24 All Level 5 Normal Clear
-2013-01-24 All Level 5 Played
-
-       TBA All Level 4 Full Combo
-2013-02-05 All Level 4 Hard Clear
-2013-02-05 All Level 4 Normal Clear
-2012-12-25 All Level 4 Played
-
-       TBA All Level 3 Full Combo
-2013-02-01 All Level 3 Hard Clear
-2013-02-01 All Level 3 Normal Clear
-2012-12-22 All Level 3 Played
-
-2013-03-19 All Level 2 Full Combo
-2013-01-24 All Level 2 Hard Clear
-2012-12-21 All Level 2 Normal Clear
-2012-12-21 All Level 2 Played
-
-2013-01-24 All Level 1 Full Combo
-2013-01-24 All Level 1 Hard Clear
-2012-12-21 All Level 1 Normal Clear
-2012-12-21 All Level 1 Played
-
-       TBA First 7 AAA: ?
-2013-05-15 First AAA: 8bit Princess [N]
-
-       TBA First 8 Full Combo: ?
-2013-12-28 First 7 Full Combo: EXTREMA PT.2 [H]
-2012-12-21 First Full Combo: GAMBOL [N]
-
-       TBA First 10: ?
-2013-11-27 First 9: MAX LOVE [H]
-2013-09-15 First 8: Survival Games [H]
-2013-02-22 First 7: Drive Me Crazy [H]
-
-2013-12-21 Year 2 Begins
-2012-12-21 Year 1 Begins
-</pre>
-
-<h3>Play Count</h3>
-
-<hr><pre>       TBA 6,000 Games Logged
-2014-09-05 5,000 Games Logged
-2014-01-02 4,000 Games Logged
-2013-09-07 3,000 Games Logged
-2013-03-04 2,000 Games Logged
-2012-10-16 1,000 Games Logged
-</pre>
 
 <h3>1P Side 段位認定 Timeline</h3>
 
@@ -304,6 +353,9 @@ accomplishments and thoughts about the game as I continue my lengthy journey. - 
 2013-10-05 2013-10-05 六級 Rank
 2013-10-05 2013-10-05 七級 Rank
 </pre>
+
+
+
 
 <h3>Patterns, Techniques, &amp; Comments</h3>
 
