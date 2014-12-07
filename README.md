@@ -1,4 +1,4 @@
-![IIDX Lincle + Real Edition Double](https://github.com/chingc/IIDX-Progress/raw/master/src/common/images/lincle.jpg)
+![IIDX Lincle + Real Edition Double](https://raw.githubusercontent.com/chingc/IIDX-Progress/master/lincle.jpg)
 
 
 # The Road to 皆伝
@@ -42,7 +42,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. - 
 ### SP 段位認定
 
 * 2014-01-30 八段
-* 2014-06-02 七段  ![:V](https://github.com/chingc/IIDX-Progress/raw/master/src/common/images/pacman_emoticon.png)
+* 2014-06-02 七段  ![:V](https://raw.githubusercontent.com/chingc/IIDX-Progress/master/pacman_emoticon.png)
 * 2013-02-04 六段
 * 2013-01-16 五段
 * 2012-10-28 四段
