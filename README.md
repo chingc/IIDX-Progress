@@ -6,6 +6,10 @@
 I think it would be interesting to track my IIDX progress, so I've decided to create this space. I will record
 accomplishments and thoughts about the game as I continue my lengthy journey. ~ 2013-01-10
 
+- [Single Play](https://github.com/chingc/IIDX-Progress#sp-work-in-progress)
+- [Double Play](https://github.com/chingc/IIDX-Progress#dp-work-in-progress)
+- [Thoughts](https://github.com/chingc/IIDX-Progress#patterns-techniques-comments)
+
 
 - - - - - - - - - - - - - - - - - - - -
 
