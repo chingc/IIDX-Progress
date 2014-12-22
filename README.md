@@ -210,11 +210,11 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 * 段位認定
     * 七段
 * Lamp
+    * All Level 8 Played
     * All Level 7 Normal Clear
     * All Level 6 EX Hard Clear
     * All Level 5 EX Hard Clear
     * All Level 4 EX Hard Clear
-    * All Level 3 EX Hard Clear
 * Grade
     * All Level 3 AAA
     * All Level 2 AAA
@@ -225,7 +225,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
     * All Level 6 A
 * First!
     * First 10: ?
-    * First 8 Full Combo: ?
+    * First 9 Full Combo: ?
     * First 7 AAA: ?
 
 
@@ -242,6 +242,12 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 * 2012-12-26 三級
 * 2012-12-24 四級
 * 2012-12-24 五級
+
+
+### DP All Level 8
+
+* Grade
+* Lamp
 
 
 ### DP All Level 7
@@ -287,6 +293,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
     * 2013-09-14 AA
     * 2013-08-23 A
 * Lamp
+    * 2014-12-21 EX Hard Clear
     * 2013-02-01 Hard Clear
     * 2013-02-01 Normal Clear
     * 2012-12-22 Played
@@ -323,6 +330,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 * AAA
     * 2013-05-15 8bit Princess [N]
 * Full Combo
+    * 2014-12-21 Level 8: M.D.Injection [H]
     * 2013-12-28 Level 7: EXTREMA PT.2 [H]
     * 2012-12-21 GAMBOL [N]
 * New Level
