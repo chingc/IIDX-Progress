@@ -216,6 +216,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
     * All Level 6 EX Hard Clear
     * All Level 5 EX Hard Clear
     * All Level 4 EX Hard Clear
+    * All Level 3 Full Combo
 * Grade
     * All Level 3 AAA
     * All Level 2 AAA
