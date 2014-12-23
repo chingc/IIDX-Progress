@@ -24,7 +24,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
     * All Level 9 Hard Clear
     * All Level 8 Hard Clear
     * All Level 7 EX Hard Clear
-    * All Level 6 EX Hard Clear
+    * All Level 6 Full Combo
     * All Level 5 Full Combo
 * Grade
     * All Level 4 AAA
@@ -108,6 +108,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 * Grade
     * 2013-07-20 A
 * Lamp
+    * 2014-12-22 EX Hard Clear
     * 2013-03-17 Hard Clear
     * 2013-01-07 Normal Clear
     * 2012-09-23 Played
