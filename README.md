@@ -19,7 +19,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 * 段位認定
     * 九段
 * Lamp
-    * All Level 11 Played
+    * All Level 12 Played
     * All Level 10 Easy Clear
     * All Level 9 Hard Clear
     * All Level 8 Hard Clear
@@ -27,12 +27,12 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
     * All Level 6 Full Combo
     * All Level 5 Full Combo
 * Grade
+    * All Level 5 AAA
     * All Level 4 AAA
     * All Level 3 AAA
     * All Level 2 AAA
     * All Level 7 AA
     * All Level 6 AA
-    * All Level 5 AA
     * All Level 11 A
     * All Level 10 A
     * All Level 9 A
@@ -66,6 +66,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 
 * Grade
 * Lamp
+    * 2015-02-14 Played
 
 
 ### SP All Level 10
@@ -117,6 +118,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 ### SP All Level 5
 
 * Grade
+    * 2015-02-14 AA
     * 2013-06-08 A
 * Lamp
     * 2013-09-02 EX Hard Clear
