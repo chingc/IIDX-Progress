@@ -12,387 +12,621 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 
 
 - - - - - - - - - - - - - - - - - - - -
-
-
-### SP Work In Progress
-
-* 段位認定
-    * 九段
-* Lamp
-    * All Level 12 Played
-    * All Level 10 Easy Clear
-    * All Level 9 Hard Clear
-    * All Level 8 Hard Clear
-    * All Level 7 EX Hard Clear
-    * All Level 6 Full Combo
-    * All Level 5 Full Combo
-* Grade
-    * All Level 5 AAA
-    * All Level 4 AAA
-    * All Level 3 AAA
-    * All Level 2 AAA
-    * All Level 7 AA
-    * All Level 6 AA
-    * All Level 11 A
-    * All Level 10 A
-    * All Level 9 A
-    * All Level 8 A
-* First!
-    * First 12: ?
-    * First 10 AAA: ?
-    * First 10 Full Combo: ?
-
-
-### SP 段位認定
-
-* 2014-01-30 八段
-* 2014-06-02 七段  ![:V](https://raw.githubusercontent.com/chingc/IIDX-Progress/master/images/pacman.png)
-* 2013-02-04 六段
-* 2013-01-16 五段
-* 2012-10-28 四段
-* 2012-10-28 三段
-* 2012-06-15 二段
-* 2012-06-15 初段
-* 2012-06-06 一級
-* 2012-06-06 二級
-* 2012-06-06 三級
-* 2012-06-06 四級
-* 2012-06-06 五級
-* 2012-06-06 六級
-* 2012-06-06 七級
-
-
-### SP All Level 11
-
-* Grade
-* Lamp
-    * 2015-02-14 Played
-
-
-### SP All Level 10
-
-* Grade
-* Lamp
-    * 2014-05-26 Played
-
-
-### SP All Level 9
-
-* Grade
-* Lamp
-    * 2013-08-30 Normal Clear
-    * 2013-08-30 Easy Clear
-    * 2013-03-08 Played
-
-
-### SP All Level 8
-
-* Grade
-* Lamp
-    * 2014-01-17 Normal Clear
-    * 2013-09-02 Easy Clear
-    * 2013-01-06 Played
-
-
-### SP All Level 7
-
-* Grade
-    * 2013-09-29 A
-* Lamp
-    * 2013-12-07 Hard Clear
-    * 2013-02-12 Normal Clear
-    * 2012-10-06 Played
-
-
-### SP All Level 6
-
-* Grade
-    * 2013-07-20 A
-* Lamp
-    * 2014-12-22 EX Hard Clear
-    * 2013-03-17 Hard Clear
-    * 2013-01-07 Normal Clear
-    * 2012-09-23 Played
-
-
-### SP All Level 5
-
-* Grade
-    * 2015-02-14 AA
-    * 2013-06-08 A
-* Lamp
-    * 2013-09-02 EX Hard Clear
-    * 2013-01-14 Hard Clear
-    * 2012-06-08 Normal Clear
-    * 2012-06-01 Played
-
-
-### SP All Level 4
-
-* Grade
-    * 2013-06-08 AA
-    * 2013-06-08 A
-* Lamp
-    * 2014-11-23 Full Combo
-    * 2013-06-07 EX Hard Clear
-    * 2012-12-01 Hard Clear
-    * 2012-06-15 Normal Clear
-    * 2012-05-21 Played
-
-
-### SP All Level 3
-
-* Grade
-    * 2013-06-08 AA
-    * 2013-06-08 A
-* Lamp
-    * 2013-08-18 Full Combo
-    * 2012-11-21 EX Hard Clear
-    * 2011-11-27 Hard Clear
-    * 2011-11-17 Normal Clear
-    * 2011-11-13 Played
-
-
-### SP All Level 2
-
-* Grade
-    * 2013-06-08 AA
-    * 2013-06-08 A
-* Lamp
-    * 2012-11-15 Full Combo
-    * 2012-11-15 EX Hard Clear
-    * 2011-08-03 Hard Clear
-    * 2011-08-03 Normal Clear
-    * 2011-08-03 Played
-
-
-### SP All Level 1 (Complete!)
-
-* Grade
-    * 2013-09-08 AAA
-    * 2013-06-08 AA
-    * 2013-06-08 A
-* Lamp
-    * 2012-11-12 Full Combo
-    * 2012-11-12 EX Hard Clear
-    * 2011-07-16 Hard Clear
-    * 2011-07-16 Normal Clear
-    * 2011-06-19 Played
-
-
-### SP First!
-
-* AAA
-    * 2014-10-19 Level 9: the trigger of innocence [A]
-    * 2013-11-10 Level 8: PROMISE FOR LIFE [A]
-    * 2012-06-03 I FIGHT ME [N]
-* Full Combo
-    * 2014-05-11 Level 9: We are Disっ娘よっつ打ち命 [A]
-    * 2013-02-25 Level 8: One of A Kind [H]
-    * 2011-07-21 FLOWERS for ALBION [N]
-* New Level
-    * 2013-05-23 Level 11: Halfway of promise [A]
-    * 2013-02-05 Level 10: PHOTONGENIC [H]
-    * 2013-01-15 Level 9: quasar [H]
-    * 2012-06-23 Level 8: ЁVOLUTIΦN [H]
-
-
-### SP Time Spent
-
-* 2014-06-19 Year 4 Begins
-* 2013-06-19 Year 3 Begins
-* 2012-06-19 Year 2 Begins
-* 2011-06-19 Year 1 Begins
-
-
 - - - - - - - - - - - - - - - - - - - -
 
 
-### DP Work In Progress
+## SP 段位認定
 
-* 段位認定
-    * 七段
-* Lamp
-    * All Level 8 Played
-    * All Level 7 Normal Clear
-    * All Level 6 EX Hard Clear
-    * All Level 5 EX Hard Clear
-    * All Level 4 EX Hard Clear
-    * All Level 3 Full Combo
-* Grade
-    * All Level 3 AAA
-    * All Level 2 AAA
-    * All Level 1 AAA
-    * All Level 5 AA
-    * All Level 4 AA
-    * All Level 7 A
-    * All Level 6 A
-* First!
-    * First 10: ?
-    * First 9 Full Combo: ?
-    * First 7 AAA: ?
-
-
-### DP 段位認定
-
-* 2013-12-13 六段
-* 2013-08-31 五段
-* 2013-05-24 四段
-* 2013-05-14 三段
-* 2013-02-11 二段
-* 2013-01-14 初段
-* 2012-12-26 一級
-* 2012-12-26 二級
-* 2012-12-26 三級
-* 2012-12-24 四級
-* 2012-12-24 五級
+Rank |
+-----|
+皆伝 | :x: |
+十段 | :x: |
+九段 | :x: |
+八段 | :white_check_mark: | 2014-01-30
+七段 | :white_check_mark: | 2014-06-02 | ![:V](https://raw.githubusercontent.com/chingc/IIDX-Progress/master/images/pacman.png)
+六段 | :white_check_mark: | 2013-02-04
+五段 | :white_check_mark: | 2013-01-16
+四段 | :white_check_mark: | 2012-10-28
+三段 | :white_check_mark: | 2012-10-28
+二段 | :white_check_mark: | 2012-06-15
+初段 | :white_check_mark: | 2012-06-15
+一級 | :white_check_mark: | 2012-06-06
+二級 | :white_check_mark: | 2012-06-06
+三級 | :white_check_mark: | 2012-06-06
+四級 | :white_check_mark: | 2012-06-06
+五級 | :white_check_mark: | 2012-06-06
+六級 | :white_check_mark: | 2012-06-06
+七級 | :white_check_mark: | 2012-06-06
 
 
-### DP All Level 8
+## SP All Level 12
 
-* Grade
-* Lamp
-
-
-### DP All Level 7
-
-* Grade
-* Lamp
-    * 2014-06-21 Easy Clear
-    * 2014-01-23 Played
-
-
-### DP All Level 6
-
-* Grade
-* Lamp
-    * 2013-12-19 Hard Clear
-    * 2013-12-18 Normal Clear
-    * 2013-02-22 Played
+Lamp          |
+--------------|
+Full Combo    | :x:
+EX Hard Clear | :x: 
+Hard Clear    | :x: 
+Normal Clear  | :x: 
+Easy Clear    | :x: 
+Played        | :x:
+   
+Grade |
+------|
+AAA   | :x: 
+AA    | :x: 
+A     | :x: 
 
 
-### DP All Level 5
+## SP All Level 11
 
-* Grade
-    * 2013-10-19 A
-* Lamp
-    * 2013-10-19 Hard Clear
-    * 2013-05-24 Normal Clear
-    * 2013-01-24 Played
-
-
-### DP All Level 4
-
-* Grade
-    * 2013-09-15 A
-* Lamp
-    * 2013-02-05 Hard Clear
-    * 2013-02-05 Normal Clear
-    * 2012-12-25 Played
+Lamp          |
+--------------|
+Full Combo    | :x: |
+EX Hard Clear | :x: | 
+Hard Clear    | :x: | 
+Normal Clear  | :x: | 
+Easy Clear    | :x: | 
+Played        | :white_check_mark: | 2015-02-14
+   
+Grade |
+------|
+AAA   | :x: 
+AA    | :x: 
+A     | :x: 
 
 
-### DP All Level 3
+## SP All Level 10
 
-* Grade
-    * 2013-09-14 AA
-    * 2013-08-23 A
-* Lamp
-    * 2014-12-21 EX Hard Clear
-    * 2013-02-01 Hard Clear
-    * 2013-02-01 Normal Clear
-    * 2012-12-22 Played
-
-
-### DP All Level 2
-
-* Grade
-    * 2013-09-14 AA
-    * 2013-07-01 A
-* Lamp
-    * 2013-03-19 Full Combo
-    * 2013-03-19 EX Hard Clear
-    * 2013-01-24 Hard Clear
-    * 2012-12-21 Normal Clear
-    * 2012-12-21 Played
+Lamp          |
+--------------|
+Full Combo    | :x: |
+EX Hard Clear | :x: | 
+Hard Clear    | :x: | 
+Normal Clear  | :x: | 
+Easy Clear    | :x: | 
+Played        | :white_check_mark: | 2014-05-26
+   
+Grade |
+------|
+AAA   | :x: 
+AA    | :x: 
+A     | :x: 
 
 
-### DP All Level 1
+## SP All Level 9
 
-* Grade
-    * 2013-09-14 AA
-    * 2013-07-01 A
-* Lamp
-    * 2013-01-24 Full Combo
-    * 2013-01-24 EX Hard Clear
-    * 2013-01-24 Hard Clear
-    * 2012-12-21 Normal Clear
-    * 2012-12-21 Played
-
-
-### DP First!
-
-* AAA
-    * 2013-05-15 8bit Princess [N]
-* Full Combo
-    * 2014-12-21 Level 8: M.D.Injection [H]
-    * 2013-12-28 Level 7: EXTREMA PT.2 [H]
-    * 2012-12-21 GAMBOL [N]
-* New Level
-    * 2013-11-27 Level 9: MAX LOVE [H]
-    * 2013-09-15 Level 8: Survival Games [H]
-    * 2013-02-22 Level 7: Drive Me Crazy [H]
+Lamp          |
+--------------|
+Full Combo    | :x: |
+EX Hard Clear | :x: | 
+Hard Clear    | :x: | 
+Normal Clear  | :white_check_mark: | 2013-08-30
+Easy Clear    | :white_check_mark: | 2013-08-30
+Played        | :white_check_mark: | 2013-03-08
+   
+Grade |
+------|
+AAA   | :x: 
+AA    | :x: 
+A     | :x: 
 
 
-### DP Time Spent
+## SP All Level 8
 
-* 2013-12-21 Year 2 Begins
-* 2012-12-21 Year 1 Begins
+Lamp          |
+--------------|
+Full Combo    | :x: |
+EX Hard Clear | :x: | 
+Hard Clear    | :x: | 
+Normal Clear  | :white_check_mark: | 2014-01-17
+Easy Clear    | :white_check_mark: | 2013-09-02
+Played        | :white_check_mark: | 2013-01-06
+   
+Grade |
+------|
+AAA   | :x: 
+AA    | :x: 
+A     | :x: 
+
+
+## SP All Level 7
+
+Lamp          |
+--------------|
+Full Combo    | :x: |
+EX Hard Clear | :x: | 
+Hard Clear    | :white_check_mark: | 2013-12-07
+Normal Clear  | :white_check_mark: | 2013-02-12
+Easy Clear    | :white_check_mark: | 2013-02-12
+Played        | :white_check_mark: | 2012-10-06
+   
+Grade |
+------|
+AAA   | :x: |
+AA    | :x: |
+A     | :white_check_mark: | 2013-09-29
+
+
+## SP All Level 6
+
+Lamp          |
+--------------|
+Full Combo    | :x: |
+EX Hard Clear | :white_check_mark: | 2014-12-22
+Hard Clear    | :white_check_mark: | 2013-03-17
+Normal Clear  | :white_check_mark: | 2013-01-07
+Easy Clear    | :white_check_mark: | 2013-01-07
+Played        | :white_check_mark: | 2012-09-23
+   
+Grade |
+------|
+AAA   | :x: |
+AA    | :x: |
+A     | :white_check_mark: | 2013-07-20
+
+
+## SP All Level 5
+
+Lamp          |
+--------------|
+Full Combo    | :x: |
+EX Hard Clear | :white_check_mark: | 2013-09-02
+Hard Clear    | :white_check_mark: | 2013-01-14
+Normal Clear  | :white_check_mark: | 2012-06-08
+Easy Clear    | :white_check_mark: | 2012-06-08
+Played        | :white_check_mark: | 2012-06-01
+   
+Grade |
+------|
+AAA   | :x: |
+AA    | :white_check_mark: | 2015-02-14
+A     | :white_check_mark: | 2013-06-08
+
+
+## SP All Level 4
+
+Lamp          |
+--------------|
+Full Combo    | :white_check_mark: | 2014-11-23
+EX Hard Clear | :white_check_mark: | 2013-06-07
+Hard Clear    | :white_check_mark: | 2012-12-01
+Normal Clear  | :white_check_mark: | 2012-06-15
+Easy Clear    | :white_check_mark: | 2012-06-15
+Played        | :white_check_mark: | 2012-05-21
+   
+Grade |
+------|
+AAA   | :x: | 
+AA    | :white_check_mark: | 2013-06-08
+A     | :white_check_mark: | 2013-06-08
+
+
+## SP All Level 3
+
+Lamp          |
+--------------|
+Full Combo    | :white_check_mark: | 2013-08-18
+EX Hard Clear | :white_check_mark: | 2012-11-21
+Hard Clear    | :white_check_mark: | 2011-11-27
+Normal Clear  | :white_check_mark: | 2011-11-17
+Easy Clear    | :white_check_mark: | 2011-11-17
+Played        | :white_check_mark: | 2011-11-13
+   
+Grade |
+------|
+AAA   | :x: |
+AA    | :white_check_mark: | 2013-06-08
+A     | :white_check_mark: | 2013-06-08
+
+
+## SP All Level 2
+
+Lamp          |
+--------------|
+Full Combo    | :white_check_mark: | 2012-11-15
+EX Hard Clear | :white_check_mark: | 2012-11-15
+Hard Clear    | :white_check_mark: | 2011-08-03
+Normal Clear  | :white_check_mark: | 2011-08-03
+Easy Clear    | :white_check_mark: | 2011-08-03
+Played        | :white_check_mark: | 2011-08-03
+   
+Grade |
+------|
+AAA   | :x: |
+AA    | :white_check_mark: | 2013-06-08
+A     | :white_check_mark: | 2013-06-08
+
+
+## SP All Level 1
+
+Lamp          |
+--------------|
+Full Combo    | :white_check_mark: | 2012-11-12
+EX Hard Clear | :white_check_mark: | 2012-11-12
+Hard Clear    | :white_check_mark: | 2011-07-16
+Normal Clear  | :white_check_mark: | 2011-07-16
+Easy Clear    | :white_check_mark: | 2011-07-16
+Played        | :white_check_mark: | 2011-06-19
+
+Grade |
+------|
+AAA   | :white_check_mark: | 2013-09-08
+AA    | :white_check_mark: | 2013-06-08
+A     | :white_check_mark: | 2013-06-08
+
+
+## SP First!
+
+First AAA |
+----------|
+Level 12  | :x: | |
+Level 11  | :x: | |
+Level 10  | :x: | |
+Level 9   | :white_check_mark: | 2014-10-19 | the trigger of innocence [A]
+Level 8   | :white_check_mark: | 2013-11-10 | PROMISE FOR LIFE [A]
+Level 1   | :white_check_mark: | 2012-06-03 | I FIGHT ME [N]
+
+First Full Combo |
+-----------------|
+Level 12         | :x: | |
+Level 11         | :x: | |
+Level 10         | :x: | |
+Level 9          | :white_check_mark: | 2014-05-11 | We are Disっ娘よっつ打ち命 [A]
+Level 8          | :white_check_mark: | 2013-02-25 | One of A Kind [H]
+Level 1          | :white_check_mark: | 2011-07-21 | FLOWERS for ALBION [N]
+
+First New Level |
+----------------|
+Level 12        | :x: | |
+Level 11        | :white_check_mark: | 2013-05-23 | Halfway of promise [A]
+Level 10        | :white_check_mark: | 2013-02-05 | PHOTONGENIC [H]
+Level 9         | :white_check_mark: | 2013-01-15 | quasar [H]
+Level 8         | :white_check_mark: | 2012-06-23 | ЁVOLUTIΦN [H]
+
+
+## SP Day One
+
+2011-06-19
 
 
 - - - - - - - - - - - - - - - - - - - -
-
-
-### Play Count
-
-* 2014-09-05 5,000 Games Logged
-* 2014-01-02 4,000 Games Logged
-* 2013-09-07 3,000 Games Logged
-* 2013-03-04 2,000 Games Logged
-* 2012-10-16 1,000 Games Logged
-
-
 - - - - - - - - - - - - - - - - - - - -
 
 
-### 1P Side 段位認定
+## DP 段位認定
 
-* 2013-12-01 四段
-* 2013-12-01 三段
-* 2013-12-01 二段
-* 2013-12-01 初段
-* 2013-12-01 一級
-* 2013-12-01 二級
-* 2013-12-01 三級
-* 2013-12-01 四級
-* 2013-12-01 五級
-* 2013-12-01 六級
-* 2013-12-01 七級
-
-
-### 1-Hand 段位認定
-
-Left | Right | Rank
----- | ----- | ----
-2013-10-05 | 2014-01-15 | 初段
-2013-10-05 | 2013-10-05 | 一級
-2013-10-05 | 2013-10-05 | 二級
-2013-10-05 | 2013-10-05 | 三級
-2013-10-05 | 2013-10-05 | 四級
-2013-10-05 | 2013-10-05 | 五級
-2013-10-05 | 2013-10-05 | 六級
-2013-10-05 | 2013-10-05 | 七級
+Rank |
+-----|
+皆伝 | :x: |
+十段 | :x: |
+九段 | :x: |
+八段 | :x: |
+七段 | :x: |
+六段 | :white_check_mark: | 2013-12-13
+五段 | :white_check_mark: | 2013-08-31
+四段 | :white_check_mark: | 2013-05-24
+三段 | :white_check_mark: | 2013-05-14
+二段 | :white_check_mark: | 2013-02-11
+初段 | :white_check_mark: | 2013-01-14
+一級 | :white_check_mark: | 2012-12-26
+二級 | :white_check_mark: | 2012-12-26
+三級 | :white_check_mark: | 2012-12-26
+四級 | :white_check_mark: | 2012-12-24
+五級 | :white_check_mark: | 2012-12-24
 
 
+## DP All Level 12
+
+Lamp          |
+--------------|
+Full Combo    | :x:
+EX Hard Clear | :x: 
+Hard Clear    | :x: 
+Normal Clear  | :x: 
+Easy Clear    | :x: 
+Played        | :x:
+   
+Grade |
+------|
+AAA   | :x: 
+AA    | :x: 
+A     | :x: 
+
+
+## DP All Level 11
+
+Lamp          |
+--------------|
+Full Combo    | :x:
+EX Hard Clear | :x: 
+Hard Clear    | :x: 
+Normal Clear  | :x: 
+Easy Clear    | :x: 
+Played        | :x:
+   
+Grade |
+------|
+AAA   | :x: 
+AA    | :x: 
+A     | :x: 
+
+
+## DP All Level 10
+
+Lamp          |
+--------------|
+Full Combo    | :x:
+EX Hard Clear | :x: 
+Hard Clear    | :x: 
+Normal Clear  | :x: 
+Easy Clear    | :x: 
+Played        | :x:
+   
+Grade |
+------|
+AAA   | :x: 
+AA    | :x: 
+A     | :x: 
+
+
+## DP All Level 9
+
+Lamp          |
+--------------|
+Full Combo    | :x:
+EX Hard Clear | :x: 
+Hard Clear    | :x: 
+Normal Clear  | :x: 
+Easy Clear    | :x: 
+Played        | :x:
+   
+Grade |
+------|
+AAA   | :x: 
+AA    | :x: 
+A     | :x: 
+
+
+## DP All Level 8
+
+Lamp          |
+--------------|
+Full Combo    | :x:
+EX Hard Clear | :x: 
+Hard Clear    | :x: 
+Normal Clear  | :x: 
+Easy Clear    | :x: 
+Played        | :x:
+   
+Grade |
+------|
+AAA   | :x: 
+AA    | :x: 
+A     | :x: 
+
+
+## DP All Level 7
+
+Lamp          |
+--------------|
+Full Combo    | :x: |
+EX Hard Clear | :x: |
+Hard Clear    | :x: |
+Normal Clear  | :x: |
+Easy Clear    | :white_check_mark: | 2014-06-21
+Played        | :white_check_mark: | 2014-01-23
+   
+Grade |
+------|
+AAA   | :x: 
+AA    | :x: 
+A     | :x: 
+
+
+## DP All Level 6
+
+Lamp          |
+--------------|
+Full Combo    | :x: |
+EX Hard Clear | :x: |
+Hard Clear    | :white_check_mark: | 2013-12-19
+Normal Clear  | :white_check_mark: | 2013-12-18
+Easy Clear    | :white_check_mark: | 2013-12-18
+Played        | :white_check_mark: | 2013-02-22
+   
+Grade |
+------|
+AAA   | :x: 
+AA    | :x: 
+A     | :x: 
+
+
+## DP All Level 5
+
+Lamp          |
+--------------|
+Full Combo    | :x: |
+EX Hard Clear | :x: |
+Hard Clear    | :white_check_mark: | 2013-10-19
+Normal Clear  | :white_check_mark: | 2013-05-24
+Easy Clear    | :white_check_mark: | 2013-05-24
+Played        | :white_check_mark: | 2013-01-24
+   
+Grade |
+------|
+AAA   | :x: |
+AA    | :x: |
+A     | :white_check_mark: | 2013-10-19
+
+
+## DP All Level 4
+
+Lamp          |
+--------------|
+Full Combo    | :x: |
+EX Hard Clear | :x: |
+Hard Clear    | :white_check_mark: | 2013-02-05
+Normal Clear  | :white_check_mark: | 2013-02-05
+Easy Clear    | :white_check_mark: | 2013-02-05
+Played        | :white_check_mark: | 2012-12-25
+   
+Grade |
+------|
+AAA   | :x: |
+AA    | :x: |
+A     | :white_check_mark: | 2013-09-15
+
+
+## DP All Level 3
+
+Lamp          |
+--------------|
+Full Combo    | :x: |
+EX Hard Clear | :white_check_mark: | 2014-12-21
+Hard Clear    | :white_check_mark: | 2013-02-01
+Normal Clear  | :white_check_mark: | 2013-02-01
+Easy Clear    | :white_check_mark: | 2013-02-01
+Played        | :white_check_mark: | 2012-12-22
+   
+Grade |
+------|
+AAA   | :x: |
+AA    | :white_check_mark: | 2013-09-14
+A     | :white_check_mark: | 2013-08-23
+
+
+## DP All Level 2
+
+Lamp          |
+--------------|
+Full Combo    | :white_check_mark: | 2013-03-19
+EX Hard Clear | :white_check_mark: | 2013-03-19
+Hard Clear    | :white_check_mark: | 2013-01-24
+Normal Clear  | :white_check_mark: | 2012-12-21
+Easy Clear    | :white_check_mark: | 2012-12-21
+Played        | :white_check_mark: | 2012-12-21
+   
+Grade |
+------|
+AAA   | :x: |
+AA    | :white_check_mark: | 2013-09-14
+A     | :white_check_mark: | 2013-07-01
+
+
+## DP All Level 1
+
+Lamp          |
+--------------|
+Full Combo    | :white_check_mark: | 2013-01-24
+EX Hard Clear | :white_check_mark: | 2013-01-24
+Hard Clear    | :white_check_mark: | 2013-01-24
+Normal Clear  | :white_check_mark: | 2012-12-21
+Easy Clear    | :white_check_mark: | 2012-12-21
+Played        | :white_check_mark: | 2012-12-21
+   
+Grade |
+------|
+AAA   | :x: |
+AA    | :white_check_mark: | 2013-09-14
+A     | :white_check_mark: | 2013-07-01
+
+
+## DP First!
+
+First AAA |
+----------|
+Level 12  | :x: | |
+Level 11  | :x: | |
+Level 10  | :x: | |
+Level 9   | :x: | | 
+Level 8   | :x: | | 
+Level 7   | :x: | | 
+Level 1   | :white_check_mark: | 2013-05-15 | 8bit Princess [N]
+
+First Full Combo |
+-----------------|
+Level 12         | :x: | |
+Level 11         | :x: | |
+Level 10         | :x: | |
+Level 9          | :x: | | 
+Level 8          | :white_check_mark: | 2014-12-21 | M.D.Injection [H]
+Level 7          | :white_check_mark: | 2013-12-28 | EXTREMA PT.2 [H]
+Level 1          | :white_check_mark: | 2012-12-21 | GAMBOL [N]
+
+First New Level |
+----------------|
+Level 12        | :x: | |
+Level 11        | :x: | | 
+Level 10        | :x: | | 
+Level 9         | :white_check_mark: | 2013-11-27 | MAX LOVE [H]
+Level 8         | :white_check_mark: | 2013-09-15 | Survival Games [H]
+Level 7         | :white_check_mark: | 2013-02-22 | Drive Me Crazy [H]
+
+
+## DP Day One
+
+2012-12-21
+
+
+- - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - -
+
+
+## Play Count
+
+Games |
+------|
+5,781 | 2015-03-08 | PW Closes
+5,000 | 2014-09-05 
+4,000 | 2014-01-02 
+3,000 | 2013-09-07
+2,000 | 2013-03-04
+1,000 | 2012-10-16
+
+
+- - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - -
+
+
+## 1P Side 段位認定
+
+Rank |
+-----|
+皆伝 | :x: |
+十段 | :x: |
+九段 | :x: |
+八段 | :x: |
+七段 | :x: |
+六段 | :x: | 
+五段 | :x: | 
+四段 | :white_check_mark: | 2013-12-01
+三段 | :white_check_mark: | 2013-12-01
+二段 | :white_check_mark: | 2013-12-01
+初段 | :white_check_mark: | 2013-12-01
+一級 | :white_check_mark: | 2013-12-01
+二級 | :white_check_mark: | 2013-12-01
+三級 | :white_check_mark: | 2013-12-01
+四級 | :white_check_mark: | 2013-12-01
+五級 | :white_check_mark: | 2013-12-01
+六級 | :white_check_mark: | 2013-12-01
+七級 | :white_check_mark: | 2013-12-01
+
+
+## 1-Hand 段位認定
+
+Rank | Left       | Right
+---- | ---------- | -----
+初段 | 2013-10-05 | 2014-01-15
+一級 | 2013-10-05 | 2013-10-05  
+二級 | 2013-10-05 | 2013-10-05 
+三級 | 2013-10-05 | 2013-10-05  
+四級 | 2013-10-05 | 2013-10-05  
+五級 | 2013-10-05 | 2013-10-05  
+六級 | 2013-10-05 | 2013-10-05  
+七級 | 2013-10-05 | 2013-10-05  
+
+
+- - - - - - - - - - - - - - - - - - - -
 - - - - - - - - - - - - - - - - - - - -
 
 
