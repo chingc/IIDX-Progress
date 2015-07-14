@@ -12,7 +12,6 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 
 
 - - - - - - - - - - - - - - - - - - - -
-- - - - - - - - - - - - - - - - - - - -
 
 
 ## SP 段位認定
@@ -43,23 +42,23 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 
 |||
 ----|--------------
-:x: | Full Combo    
-:x: | EX Hard Clear  
-:x: | Hard Clear     
-:x: | Normal Clear   
-:x: | Easy Clear     
-:x: | Played        
+:x: | Full Combo
+:x: | EX Hard Clear
+:x: | Hard Clear
+:x: | Normal Clear
+:x: | Easy Clear
+:x: | Played
 
 |||
 ----|----
 :x: | AAA
-:x: | AA 
-:x: | A  
+:x: | AA
+:x: | A
 
 
 ## SP All Level 11
 
-|||
+||||
 -------------------|---------------|-----------
 :x:                | Full Combo    |
 :x:                | EX Hard Clear |
@@ -67,80 +66,80 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 :x:                | Normal Clear  |
 :x:                | Easy Clear    |
 :white_check_mark: | Played        | 2015-02-14
-   
+
 |||
 ----|----
 :x: | AAA
-:x: | AA 
-:x: | A  
+:x: | AA
+:x: | A
 
 
 ## SP All Level 10
 
-|||
+||||
 -------------------|---------------|-----------
-:x:                | Full Combo    | 
-:x:                | EX Hard Clear | 
-:x:                | Hard Clear    | 
-:x:                | Normal Clear  | 
-:x:                | Easy Clear    | 
+:x:                | Full Combo    |
+:x:                | EX Hard Clear |
+:x:                | Hard Clear    |
+:x:                | Normal Clear  |
+:x:                | Easy Clear    |
 :white_check_mark: | Played        | 2014-05-26
-   
+
 |||
 ----|----
 :x: | AAA
-:x: | AA 
-:x: | A  
+:x: | AA
+:x: | A
 
 
 ## SP All Level 9
 
-|||
+||||
 -------------------|---------------|-----------
-:x:                | Full Combo    | 
-:x:                | EX Hard Clear |  
-:x:                | Hard Clear    |  
+:x:                | Full Combo    |
+:x:                | EX Hard Clear |
+:x:                | Hard Clear    |
 :white_check_mark: | Normal Clear  | 2013-08-30
 :white_check_mark: | Easy Clear    | 2013-08-30
 :white_check_mark: | Played        | 2013-03-08
-   
+
 |||
 ----|----
 :x: | AAA
-:x: | AA 
-:x: | A  
+:x: | AA
+:x: | A
 
 
 ## SP All Level 8
 
-|||
+||||
 -------------------|---------------|-----------
-:x:                | Full Combo    | 
-:x:                | EX Hard Clear |  
-:x:                | Hard Clear    |  
+:x:                | Full Combo    |
+:x:                | EX Hard Clear |
+:x:                | Hard Clear    |
 :white_check_mark: | Normal Clear  | 2014-01-17
 :white_check_mark: | Easy Clear    | 2013-09-02
 :white_check_mark: | Played        | 2013-01-06
-   
+
 |||
 ----|----
 :x: | AAA
-:x: | AA 
-:x: | A  
+:x: | AA
+:x: | A
 
 
 ## SP All Level 7
 
-|||
+||||
 -------------------|---------------|-----------
-:x:                | Full Combo    | 
-:x:                | EX Hard Clear |  
+:x:                | Full Combo    |
+:x:                | EX Hard Clear |
 :white_check_mark: | Hard Clear    | 2013-12-07
 :white_check_mark: | Normal Clear  | 2013-02-12
 :white_check_mark: | Easy Clear    | 2013-02-12
 :white_check_mark: | Played        | 2012-10-06
-   
-|||
+
+||||
 -------------------|-----|-----------
 :x:                | AAA |
 :x:                | AA  |
@@ -149,43 +148,43 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 
 ## SP All Level 6
 
-|||
+||||
 -------------------|---------------|-----------
-:x:                | Full Combo    | 
+:x:                | Full Combo    |
 :white_check_mark: | EX Hard Clear | 2014-12-22
 :white_check_mark: | Hard Clear    | 2013-03-17
 :white_check_mark: | Normal Clear  | 2013-01-07
 :white_check_mark: | Easy Clear    | 2013-01-07
 :white_check_mark: | Played        | 2012-09-23
-   
-|||
+
+||||
 -------------------|-----|-----------
-:x:                | AAA | 
-:x:                | AA  | 
+:x:                | AAA |
+:x:                | AA  |
 :white_check_mark: | A   | 2013-07-20
 
 
 ## SP All Level 5
 
-|||
+||||
 -------------------|---------------|-----------
-:x:                | Full Combo    | 
+:x:                | Full Combo    |
 :white_check_mark: | EX Hard Clear | 2013-09-02
 :white_check_mark: | Hard Clear    | 2013-01-14
 :white_check_mark: | Normal Clear  | 2012-06-08
 :white_check_mark: | Easy Clear    | 2012-06-08
 :white_check_mark: | Played        | 2012-06-01
-   
-|||
+
+||||
 -------------------|-----|-----------
-:x:                | AAA | 
+:x:                | AAA |
 :white_check_mark: | AA  | 2015-02-14
 :white_check_mark: | A   | 2013-06-08
 
 
 ## SP All Level 4
 
-|||
+||||
 -------------------|---------------|-----------
 :white_check_mark: | Full Combo    | 2014-11-23
 :white_check_mark: | EX Hard Clear | 2013-06-07
@@ -193,17 +192,17 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 :white_check_mark: | Normal Clear  | 2012-06-15
 :white_check_mark: | Easy Clear    | 2012-06-15
 :white_check_mark: | Played        | 2012-05-21
-   
-|||
+
+||||
 -------------------|-----|-----------
-:x:                | AAA | 
+:x:                | AAA |
 :white_check_mark: | AA  | 2013-06-08
 :white_check_mark: | A   | 2013-06-08
 
 
 ## SP All Level 3
 
-|||
+||||
 -------------------|---------------|-----------
 :white_check_mark: | Full Combo    | 2013-08-18
 :white_check_mark: | EX Hard Clear | 2012-11-21
@@ -211,17 +210,17 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 :white_check_mark: | Normal Clear  | 2011-11-17
 :white_check_mark: | Easy Clear    | 2011-11-17
 :white_check_mark: | Played        | 2011-11-13
-   
-|||
+
+||||
 -------------------|-----|-----------
-:x:                | AAA | 
+:x:                | AAA |
 :white_check_mark: | AA  | 2013-06-08
 :white_check_mark: | A   | 2013-06-08
 
 
 ## SP All Level 2
 
-|||
+||||
 -------------------|---------------|-----------
 :white_check_mark: | Full Combo    | 2012-11-15
 :white_check_mark: | EX Hard Clear | 2012-11-15
@@ -229,17 +228,17 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 :white_check_mark: | Normal Clear  | 2011-08-03
 :white_check_mark: | Easy Clear    | 2011-08-03
 :white_check_mark: | Played        | 2011-08-03
-   
-|||
+
+||||
 -------------------|-----|-----------
-:x:                | AAA | 
+:x:                | AAA |
 :white_check_mark: | AA  | 2013-06-08
 :white_check_mark: | A   | 2013-06-08
 
 
 ## SP All Level 1
 
-|||
+||||
 -------------------|---------------|-----------
 :white_check_mark: | Full Combo    | 2012-11-12
 :white_check_mark: | EX Hard Clear | 2012-11-12
@@ -248,7 +247,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 :white_check_mark: | Easy Clear    | 2011-07-16
 :white_check_mark: | Played        | 2011-06-19
 
-|||
+||||
 -------------------|-----|-----------
 :white_check_mark: | AAA | 2013-09-08
 :white_check_mark: | AA  | 2013-06-08
@@ -296,18 +295,17 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 
 
 - - - - - - - - - - - - - - - - - - - -
-- - - - - - - - - - - - - - - - - - - -
 
 
 ## DP 段位認定
 
 ||||
 -------------------|------|-----------
-:x:                | 皆伝 | 
-:x:                | 十段 | 
-:x:                | 九段 | 
-:x:                | 八段 | 
-:x:                | 七段 | 
+:x:                | 皆伝 |
+:x:                | 十段 |
+:x:                | 九段 |
+:x:                | 八段 |
+:x:                | 七段 |
 :white_check_mark: | 六段 | 2013-12-13
 :white_check_mark: | 五段 | 2013-08-31
 :white_check_mark: | 四段 | 2013-05-24
@@ -325,113 +323,113 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 
 |||
 ----|--------------
-:x: | Full Combo    
-:x: | EX Hard Clear  
-:x: | Hard Clear     
-:x: | Normal Clear   
-:x: | Easy Clear     
-:x: | Played        
+:x: | Full Combo
+:x: | EX Hard Clear
+:x: | Hard Clear
+:x: | Normal Clear
+:x: | Easy Clear
+:x: | Played
 
 |||
 ----|----
 :x: | AAA
-:x: | AA 
-:x: | A  
+:x: | AA
+:x: | A
 
 
 ## DP All Level 11
 
 |||
 ----|--------------
-:x: | Full Combo    
-:x: | EX Hard Clear  
-:x: | Hard Clear     
-:x: | Normal Clear   
-:x: | Easy Clear     
-:x: | Played        
+:x: | Full Combo
+:x: | EX Hard Clear
+:x: | Hard Clear
+:x: | Normal Clear
+:x: | Easy Clear
+:x: | Played
 
 |||
 ----|----
 :x: | AAA
-:x: | AA 
-:x: | A  
+:x: | AA
+:x: | A
 
 
 ## DP All Level 10
 
 |||
 ----|--------------
-:x: | Full Combo    
-:x: | EX Hard Clear  
-:x: | Hard Clear     
-:x: | Normal Clear   
-:x: | Easy Clear     
-:x: | Played        
+:x: | Full Combo
+:x: | EX Hard Clear
+:x: | Hard Clear
+:x: | Normal Clear
+:x: | Easy Clear
+:x: | Played
 
 |||
 ----|----
 :x: | AAA
-:x: | AA 
-:x: | A  
+:x: | AA
+:x: | A
 
 
 ## DP All Level 9
 
 |||
 ----|--------------
-:x: | Full Combo    
-:x: | EX Hard Clear  
-:x: | Hard Clear     
-:x: | Normal Clear   
-:x: | Easy Clear     
-:x: | Played        
+:x: | Full Combo
+:x: | EX Hard Clear
+:x: | Hard Clear
+:x: | Normal Clear
+:x: | Easy Clear
+:x: | Played
 
 |||
 ----|----
 :x: | AAA
-:x: | AA 
-:x: | A   
+:x: | AA
+:x: | A
 
 
 ## DP All Level 8
 
 |||
 ----|--------------
-:x: | Full Combo    
-:x: | EX Hard Clear  
-:x: | Hard Clear     
-:x: | Normal Clear   
-:x: | Easy Clear     
-:x: | Played        
+:x: | Full Combo
+:x: | EX Hard Clear
+:x: | Hard Clear
+:x: | Normal Clear
+:x: | Easy Clear
+:x: | Played
 
 |||
 ----|----
 :x: | AAA
-:x: | AA 
-:x: | A  
+:x: | AA
+:x: | A
 
 
 ## DP All Level 7
 
-|||
+||||
 -------------------|---------------|-----------
-:x:                | Full Combo    | 
-:x:                | EX Hard Clear | 
-:x:                | Hard Clear    | 
-:x:                | Normal Clear  | 
+:x:                | Full Combo    |
+:x:                | EX Hard Clear |
+:x:                | Hard Clear    |
+:x:                | Normal Clear  |
 :white_check_mark: | Easy Clear    | 2014-06-21
 :white_check_mark: | Played        | 2014-01-23
-   
+
 |||
 ----|----
 :x: | AAA
-:x: | AA 
-:x: | A 
+:x: | AA
+:x: | A
 
 
 ## DP All Level 6
 
-|||
+||||
 -------------------|---------------|-----------
 :x:                | Full Combo    |
 :x:                | EX Hard Clear |
@@ -439,71 +437,71 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 :white_check_mark: | Normal Clear  | 2013-12-18
 :white_check_mark: | Easy Clear    | 2013-12-18
 :white_check_mark: | Played        | 2013-02-22
-   
+
 |||
 ----|----
 :x: | AAA
-:x: | AA 
-:x: | A 
+:x: | AA
+:x: | A
 
 
 ## DP All Level 5
 
-|||
+||||
 -------------------|---------------|-----------
-:x:                | Full Combo    | 
-:x:                | EX Hard Clear | 
+:x:                | Full Combo    |
+:x:                | EX Hard Clear |
 :white_check_mark: | Hard Clear    | 2013-10-19
 :white_check_mark: | Normal Clear  | 2013-05-24
 :white_check_mark: | Easy Clear    | 2013-05-24
 :white_check_mark: | Played        | 2013-01-24
-   
-|||
+
+||||
 -------------------|-----|-----------
-:x:                | AAA | 
-:x:                | AA  | 
+:x:                | AAA |
+:x:                | AA  |
 :white_check_mark: | A   | 2013-10-19
 
 
 ## DP All Level 4
 
-|||
+||||
 -------------------|---------------|-----------
-:x:                | Full Combo    | 
-:x:                | EX Hard Clear | 
+:x:                | Full Combo    |
+:x:                | EX Hard Clear |
 :white_check_mark: | Hard Clear    | 2013-02-05
 :white_check_mark: | Normal Clear  | 2013-02-05
 :white_check_mark: | Easy Clear    | 2013-02-05
 :white_check_mark: | Played        | 2012-12-25
-   
-|||
+
+||||
 -------------------|-----|-----------
-:x:                | AAA | 
-:x:                | AA  | 
+:x:                | AAA |
+:x:                | AA  |
 :white_check_mark: | A   | 2013-09-15
 
 
 ## DP All Level 3
 
-|||
+||||
 -------------------|---------------|-----------
-:x:                | Full Combo    | 
+:x:                | Full Combo    |
 :white_check_mark: | EX Hard Clear | 2014-12-21
 :white_check_mark: | Hard Clear    | 2013-02-01
 :white_check_mark: | Normal Clear  | 2013-02-01
 :white_check_mark: | Easy Clear    | 2013-02-01
 :white_check_mark: | Played        | 2012-12-22
-   
-|||
+
+||||
 -------------------|-----|-----------
-:x:                | AAA | 
+:x:                | AAA |
 :white_check_mark: | AA  | 2013-09-14
 :white_check_mark: | A   | 2013-08-23
 
 
 ## DP All Level 2
 
-|||
+||||
 -------------------|---------------|-----------
 :white_check_mark: | Full Combo    | 2013-03-19
 :white_check_mark: | EX Hard Clear | 2013-03-19
@@ -511,8 +509,8 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 :white_check_mark: | Normal Clear  | 2012-12-21
 :white_check_mark: | Easy Clear    | 2012-12-21
 :white_check_mark: | Played        | 2012-12-21
-   
-|||
+
+||||
 -------------------|-----|-----------
 :x:                | AAA |
 :white_check_mark: | AA  | 2013-09-14
@@ -521,7 +519,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 
 ## DP All Level 1
 
-|||
+||||
 -------------------|---------------|-----------
 :white_check_mark: | Full Combo    | 2013-01-24
 :white_check_mark: | EX Hard Clear | 2013-01-24
@@ -529,10 +527,10 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 :white_check_mark: | Normal Clear  | 2012-12-21
 :white_check_mark: | Easy Clear    | 2012-12-21
 :white_check_mark: | Played        | 2012-12-21
-   
-|||
+
+||||
 -------------------|-----|-----------
-:x:                | AAA | 
+:x:                | AAA |
 :white_check_mark: | AA  | 2013-09-14
 :white_check_mark: | A   | 2013-07-01
 
@@ -544,9 +542,9 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 :x:                | Level 12 |            |
 :x:                | Level 11 |            |
 :x:                | Level 10 |            |
-:x:                | Level 9  |            | 
-:x:                | Level 8  |            | 
-:x:                | Level 7  |            | 
+:x:                | Level 9  |            |
+:x:                | Level 8  |            |
+:x:                | Level 7  |            |
 :white_check_mark: | Level 1  | 2013-05-15 | 8bit Princess [N]
 
 
@@ -557,7 +555,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 :x:                | Level 12 |            |
 :x:                | Level 11 |            |
 :x:                | Level 10 |            |
-:x:                | Level 9  |            | 
+:x:                | Level 9  |            |
 :white_check_mark: | Level 8  | 2014-12-21 | M.D.Injection [H]
 :white_check_mark: | Level 7  | 2013-12-28 | EXTREMA PT.2 [H]
 :white_check_mark: | Level 1  | 2012-12-21 | GAMBOL [N]
@@ -568,8 +566,8 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 |||||
 -------------------|----------|------------|-------------------
 :x:                | Level 12 |            |
-:x:                | Level 11 |            | 
-:x:                | Level 10 |            | 
+:x:                | Level 11 |            |
+:x:                | Level 10 |            |
 :white_check_mark: | Level 9  | 2013-11-27 | MAX LOVE [H]
 :white_check_mark: | Level 8  | 2013-09-15 | Survival Games [H]
 :white_check_mark: | Level 7  | 2013-02-22 | Drive Me Crazy [H]
@@ -580,7 +578,6 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 2012-12-21
 
 
-- - - - - - - - - - - - - - - - - - - -
 - - - - - - - - - - - - - - - - - - - -
 
 
@@ -596,21 +593,17 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 1,000 | 2012-10-16 |
 
 
-- - - - - - - - - - - - - - - - - - - -
-- - - - - - - - - - - - - - - - - - - -
-
-
 ## 1P Side 段位認定
 
 ||||
 -------------------|------|-----------
-:x:                | 皆伝 | 
-:x:                | 十段 | 
-:x:                | 九段 | 
-:x:                | 八段 | 
-:x:                | 七段 | 
-:x:                | 六段 | 
-:x:                | 五段 | 
+:x:                | 皆伝 |
+:x:                | 十段 |
+:x:                | 九段 |
+:x:                | 八段 |
+:x:                | 七段 |
+:x:                | 六段 |
+:x:                | 五段 |
 :white_check_mark: | 四段 | 2013-12-01
 :white_check_mark: | 三段 | 2013-12-01
 :white_check_mark: | 二段 | 2013-12-01
@@ -629,16 +622,15 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 Rank | Left       | Right
 -----|------------|-----------
 初段 | 2013-10-05 | 2014-01-15
-一級 | 2013-10-05 | 2013-10-05  
-二級 | 2013-10-05 | 2013-10-05 
-三級 | 2013-10-05 | 2013-10-05  
-四級 | 2013-10-05 | 2013-10-05  
-五級 | 2013-10-05 | 2013-10-05  
-六級 | 2013-10-05 | 2013-10-05  
-七級 | 2013-10-05 | 2013-10-05  
+一級 | 2013-10-05 | 2013-10-05
+二級 | 2013-10-05 | 2013-10-05
+三級 | 2013-10-05 | 2013-10-05
+四級 | 2013-10-05 | 2013-10-05
+五級 | 2013-10-05 | 2013-10-05
+六級 | 2013-10-05 | 2013-10-05
+七級 | 2013-10-05 | 2013-10-05
 
 
-- - - - - - - - - - - - - - - - - - - -
 - - - - - - - - - - - - - - - - - - - -
 
 
