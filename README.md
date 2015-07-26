@@ -15,6 +15,27 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 - - - - - - - - - - - - - - - - - - - -
 
 
+## Recent SP Accomplishments
+
+All 5 AA -- 2015-02-14
+All 11 Played -- 2015-02-14
+All 6 EXHC -- 2014-12-22
+All 4 FC -- 2014-11-23
+First 9 AAA -- 2014-10-19
+
+
+## Recent DP Accomplishments
+
+First 8 FC -- 2014-12-21
+All 3 EXHC -- 2014-12-21
+All 7 EC -- 2014-06-21
+First 7 FC -- 2013-12-28
+All 6 HC -- 2013-12-19
+
+
+- - - - - - - - - - - - - - - - - - - -
+
+
 ## SP 段位認定
 
 ||||
