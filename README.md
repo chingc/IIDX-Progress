@@ -19,11 +19,11 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 
 |||
 --------------|-----------
+First 12      | 2015-10-03
 All 5 AA      | 2015-02-14
 All 11 Played | 2015-02-14
 All 6 EXHC    | 2014-12-22
 All 4 FC      | 2014-11-23
-First 9 AAA   | 2014-10-19
 
 
 ## Recent DP Accomplishments
@@ -308,7 +308,7 @@ All 6 HC   | 2013-12-19
 
 |||||
 -------------------|----------|------------|-----------------------
-:x:                | Level 12 |            |
+:white_check_mark: | Level 12 | 2015-10-03 | Innocent Walls [H]
 :white_check_mark: | Level 11 | 2013-05-23 | Halfway of promise [A]
 :white_check_mark: | Level 10 | 2013-02-05 | PHOTONGENIC [H]
 :white_check_mark: | Level 9  | 2013-01-15 | quasar [H]
