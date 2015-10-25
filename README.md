@@ -12,7 +12,9 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 - [Thoughts](https://github.com/chingc/IIDX-Progress#patterns-techniques-comments)
 
 
-### SP Recent Accomplishments
+## Recent Accomplishments
+
+### SP
 
 |||
 --------------|-----------
@@ -22,8 +24,7 @@ All 11 Played | 2015-02-14
 All 6 EXHC    | 2014-12-22
 |||
 
-
-### DP Recent Accomplishments
+### DP
 
 |||
 -----------|-----------
@@ -34,7 +35,9 @@ First 7 FC | 2013-12-28
 |||
 
 
-### SP 段位認定
+## 段位認定
+
+### SP
 
 ||||
 -------------------|------|-----------
@@ -58,8 +61,7 @@ First 7 FC | 2013-12-28
 :white_check_mark: | 七級 | 2012-06-06
 ||||
 
-
-### DP 段位認定
+### DP
 
 ||||
 -------------------|------|-----------
@@ -82,7 +84,7 @@ First 7 FC | 2013-12-28
 ||||
 
 
-### Play Count
+## Play Count
 
 ||||
 -----:|------------|----------
@@ -94,44 +96,4 @@ First 7 FC | 2013-12-28
 1,000 | 2012-10-16 |
 1     | 2012-12-21 | DP Game 1
 1     | 2011-06-19 | SP Game 1
-||||
-
-
-### 1P 段位認定
-
-||||
--------------------|------|-----------
-:x:                | 皆伝 |
-:x:                | 十段 |
-:x:                | 九段 |
-:x:                | 八段 |
-:x:                | 七段 |
-:x:                | 六段 |
-:x:                | 五段 |
-:white_check_mark: | 四段 | 2013-12-01
-:white_check_mark: | 三段 | 2013-12-01
-:white_check_mark: | 二段 | 2013-12-01
-:white_check_mark: | 初段 | 2013-12-01
-:white_check_mark: | 一級 | 2013-12-01
-:white_check_mark: | 二級 | 2013-12-01
-:white_check_mark: | 三級 | 2013-12-01
-:white_check_mark: | 四級 | 2013-12-01
-:white_check_mark: | 五級 | 2013-12-01
-:white_check_mark: | 六級 | 2013-12-01
-:white_check_mark: | 七級 | 2013-12-01
-||||
-
-
-### 1-Hand 段位認定
-
-Rank | 1P         | 2P
------|------------|-----------
-初段 | 2014-01-15 | 2013-10-05
-一級 | 2013-10-05 | 2013-10-05
-二級 | 2013-10-05 | 2013-10-05
-三級 | 2013-10-05 | 2013-10-05
-四級 | 2013-10-05 | 2013-10-05
-五級 | 2013-10-05 | 2013-10-05
-六級 | 2013-10-05 | 2013-10-05
-七級 | 2013-10-05 | 2013-10-05
 ||||
