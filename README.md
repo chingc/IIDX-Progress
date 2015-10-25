@@ -12,10 +12,7 @@ accomplishments and thoughts about the game as I continue my lengthy journey. ~ 
 - [Thoughts](https://github.com/chingc/IIDX-Progress#patterns-techniques-comments)
 
 
-- - - - - - - - - - - - - - - - - - - -
-
-
-## Recent SP Accomplishments
+### SP: Recent Accomplishments
 
 |||
 --------------|-----------
@@ -24,9 +21,10 @@ All 5 AA      | 2015-02-14
 All 11 Played | 2015-02-14
 All 6 EXHC    | 2014-12-22
 All 4 FC      | 2014-11-23
+|||
 
 
-## Recent DP Accomplishments
+### DP: Recent Accomplishments
 
 |||
 -----------|-----------
@@ -35,12 +33,10 @@ All 3 EXHC | 2014-12-21
 All 7 EC   | 2014-06-21
 First 7 FC | 2013-12-28
 All 6 HC   | 2013-12-19
+|||
 
 
-- - - - - - - - - - - - - - - - - - - -
-
-
-## SP 段位認定
+### SP: 段位認定
 
 ||||
 -------------------|------|-----------
@@ -62,17 +58,10 @@ All 6 HC   | 2013-12-19
 :white_check_mark: | 五級 | 2012-06-06
 :white_check_mark: | 六級 | 2012-06-06
 :white_check_mark: | 七級 | 2012-06-06
+||||
 
 
-## SP Day One
-
-2011-06-19
-
-
-- - - - - - - - - - - - - - - - - - - -
-
-
-## DP 段位認定
+### DP: 段位認定
 
 ||||
 -------------------|------|-----------
@@ -92,283 +81,25 @@ All 6 HC   | 2013-12-19
 :white_check_mark: | 三級 | 2012-12-26
 :white_check_mark: | 四級 | 2012-12-24
 :white_check_mark: | 五級 | 2012-12-24
+||||
 
 
-## DP All Level 12
-
-|||
-----|--------------
-:x: | Full Combo
-:x: | EX Hard Clear
-:x: | Hard Clear
-:x: | Normal Clear
-:x: | Easy Clear
-:x: | Played
-
-|||
-----|----
-:x: | AAA
-:x: | AA
-:x: | A
-
-
-## DP All Level 11
-
-|||
-----|--------------
-:x: | Full Combo
-:x: | EX Hard Clear
-:x: | Hard Clear
-:x: | Normal Clear
-:x: | Easy Clear
-:x: | Played
-
-|||
-----|----
-:x: | AAA
-:x: | AA
-:x: | A
-
-
-## DP All Level 10
-
-|||
-----|--------------
-:x: | Full Combo
-:x: | EX Hard Clear
-:x: | Hard Clear
-:x: | Normal Clear
-:x: | Easy Clear
-:x: | Played
-
-|||
-----|----
-:x: | AAA
-:x: | AA
-:x: | A
-
-
-## DP All Level 9
-
-|||
-----|--------------
-:x: | Full Combo
-:x: | EX Hard Clear
-:x: | Hard Clear
-:x: | Normal Clear
-:x: | Easy Clear
-:x: | Played
-
-|||
-----|----
-:x: | AAA
-:x: | AA
-:x: | A
-
-
-## DP All Level 8
-
-|||
-----|--------------
-:x: | Full Combo
-:x: | EX Hard Clear
-:x: | Hard Clear
-:x: | Normal Clear
-:x: | Easy Clear
-:x: | Played
-
-|||
-----|----
-:x: | AAA
-:x: | AA
-:x: | A
-
-
-## DP All Level 7
+### Play Count
 
 ||||
--------------------|---------------|-----------
-:x:                | Full Combo    |
-:x:                | EX Hard Clear |
-:x:                | Hard Clear    |
-:x:                | Normal Clear  |
-:white_check_mark: | Easy Clear    | 2014-06-21
-:white_check_mark: | Played        | 2014-01-23
-
-|||
-----|----
-:x: | AAA
-:x: | AA
-:x: | A
-
-
-## DP All Level 6
-
-||||
--------------------|---------------|-----------
-:x:                | Full Combo    |
-:x:                | EX Hard Clear |
-:white_check_mark: | Hard Clear    | 2013-12-19
-:white_check_mark: | Normal Clear  | 2013-12-18
-:white_check_mark: | Easy Clear    | 2013-12-18
-:white_check_mark: | Played        | 2013-02-22
-
-|||
-----|----
-:x: | AAA
-:x: | AA
-:x: | A
-
-
-## DP All Level 5
-
-||||
--------------------|---------------|-----------
-:x:                | Full Combo    |
-:x:                | EX Hard Clear |
-:white_check_mark: | Hard Clear    | 2013-10-19
-:white_check_mark: | Normal Clear  | 2013-05-24
-:white_check_mark: | Easy Clear    | 2013-05-24
-:white_check_mark: | Played        | 2013-01-24
-
-||||
--------------------|-----|-----------
-:x:                | AAA |
-:x:                | AA  |
-:white_check_mark: | A   | 2013-10-19
-
-
-## DP All Level 4
-
-||||
--------------------|---------------|-----------
-:x:                | Full Combo    |
-:x:                | EX Hard Clear |
-:white_check_mark: | Hard Clear    | 2013-02-05
-:white_check_mark: | Normal Clear  | 2013-02-05
-:white_check_mark: | Easy Clear    | 2013-02-05
-:white_check_mark: | Played        | 2012-12-25
-
-||||
--------------------|-----|-----------
-:x:                | AAA |
-:x:                | AA  |
-:white_check_mark: | A   | 2013-09-15
-
-
-## DP All Level 3
-
-||||
--------------------|---------------|-----------
-:x:                | Full Combo    |
-:white_check_mark: | EX Hard Clear | 2014-12-21
-:white_check_mark: | Hard Clear    | 2013-02-01
-:white_check_mark: | Normal Clear  | 2013-02-01
-:white_check_mark: | Easy Clear    | 2013-02-01
-:white_check_mark: | Played        | 2012-12-22
-
-||||
--------------------|-----|-----------
-:x:                | AAA |
-:white_check_mark: | AA  | 2013-09-14
-:white_check_mark: | A   | 2013-08-23
-
-
-## DP All Level 2
-
-||||
--------------------|---------------|-----------
-:white_check_mark: | Full Combo    | 2013-03-19
-:white_check_mark: | EX Hard Clear | 2013-03-19
-:white_check_mark: | Hard Clear    | 2013-01-24
-:white_check_mark: | Normal Clear  | 2012-12-21
-:white_check_mark: | Easy Clear    | 2012-12-21
-:white_check_mark: | Played        | 2012-12-21
-
-||||
--------------------|-----|-----------
-:x:                | AAA |
-:white_check_mark: | AA  | 2013-09-14
-:white_check_mark: | A   | 2013-07-01
-
-
-## DP All Level 1
-
-||||
--------------------|---------------|-----------
-:white_check_mark: | Full Combo    | 2013-01-24
-:white_check_mark: | EX Hard Clear | 2013-01-24
-:white_check_mark: | Hard Clear    | 2013-01-24
-:white_check_mark: | Normal Clear  | 2012-12-21
-:white_check_mark: | Easy Clear    | 2012-12-21
-:white_check_mark: | Played        | 2012-12-21
-
-||||
--------------------|-----|-----------
-:x:                | AAA |
-:white_check_mark: | AA  | 2013-09-14
-:white_check_mark: | A   | 2013-07-01
-
-
-## DP First AAA
-
-|||||
--------------------|----------|------------|------------------
-:x:                | Level 12 |            |
-:x:                | Level 11 |            |
-:x:                | Level 10 |            |
-:x:                | Level 9  |            |
-:x:                | Level 8  |            |
-:x:                | Level 7  |            |
-:white_check_mark: | Level 1  | 2013-05-15 | 8bit Princess [N]
-
-
-## DP First Full Combo
-
-|||||
--------------------|----------|------------|------------------
-:x:                | Level 12 |            |
-:x:                | Level 11 |            |
-:x:                | Level 10 |            |
-:x:                | Level 9  |            |
-:white_check_mark: | Level 8  | 2014-12-21 | M.D.Injection [H]
-:white_check_mark: | Level 7  | 2013-12-28 | EXTREMA PT.2 [H]
-:white_check_mark: | Level 1  | 2012-12-21 | GAMBOL [N]
-
-
-## DP First New Level
-
-|||||
--------------------|----------|------------|-------------------
-:x:                | Level 12 |            |
-:x:                | Level 11 |            |
-:x:                | Level 10 |            |
-:white_check_mark: | Level 9  | 2013-11-27 | MAX LOVE [H]
-:white_check_mark: | Level 8  | 2013-09-15 | Survival Games [H]
-:white_check_mark: | Level 7  | 2013-02-22 | Drive Me Crazy [H]
-
-
-## DP Day One
-
-2012-12-21
-
-
-- - - - - - - - - - - - - - - - - - - -
-
-
-## Play Count
-
-||||
-------|------------|----------
+-----:|------------|----------
 5,781 | 2015-03-08 | PW Closes
 5,000 | 2014-09-05 |
 4,000 | 2014-01-02 |
 3,000 | 2013-09-07 |
 2,000 | 2013-03-04 |
 1,000 | 2012-10-16 |
+1     | 2012-12-21 | DP Game 1
+1     | 2011-06-19 | SP Game 1
+||||
 
 
-## 1P Side 段位認定
+### 1P: 段位認定
 
 ||||
 -------------------|------|-----------
@@ -390,13 +121,14 @@ All 6 HC   | 2013-12-19
 :white_check_mark: | 五級 | 2013-12-01
 :white_check_mark: | 六級 | 2013-12-01
 :white_check_mark: | 七級 | 2013-12-01
+||||
 
 
-## 1-Hand 段位認定
+### 1-Hand: 段位認定
 
-Rank | Left       | Right
+Rank | 1P         | 2P
 -----|------------|-----------
-初段 | 2013-10-05 | 2014-01-15
+初段 | 2014-01-15 | 2013-10-05
 一級 | 2013-10-05 | 2013-10-05
 二級 | 2013-10-05 | 2013-10-05
 三級 | 2013-10-05 | 2013-10-05
@@ -404,9 +136,7 @@ Rank | Left       | Right
 五級 | 2013-10-05 | 2013-10-05
 六級 | 2013-10-05 | 2013-10-05
 七級 | 2013-10-05 | 2013-10-05
-
-
-- - - - - - - - - - - - - - - - - - - -
+||||
 
 
 ### Patterns, Techniques, Comments
