@@ -15,9 +15,7 @@
 
 ## Recent Accomplishments
 
-### SP
-
-|||
+SP ||
 --------------|-----------
 First 12      | 2015-10-03
 All 5 AA      | 2015-02-14
@@ -25,9 +23,7 @@ All 11 Played | 2015-02-14
 All 6 EXHC    | 2014-12-22
 |||
 
-### DP
-
-|||
+DP ||
 -----------|-----------
 First 8 FC | 2014-12-21
 All 3 EXHC | 2014-12-21
@@ -36,65 +32,52 @@ First 7 FC | 2013-12-28
 |||
 
 
-## SP Overview
+## Progress Summary
 
-              | 1                  | 2                  | 3                  | 4                  | 5                  | 6                  | 7                  | 8                  | 9                  | 10                 | 11                 | 12  
+SP            | 1                  | 2                  | 3                  | 4                  | 5                  | 6                  | 7                  | 8                  | 9                  | 10                 | 11                 | 12  
 --------------|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:---:
 Full Combo    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:
-EX Hard Clear | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:
+EX Hard Clear | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:                | :x:
 Hard Clear    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:
 Normal Clear  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:
 Easy Clear    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:
 Played        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:
+||||||||||||||
+
+DP            | 1                  | 2                  | 3                  | 4                  | 5                  | 6                  | 7                  | 8                  | 9                  | 10                 | 11                 | 12  
+--------------|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:---:
+Full Combo    | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:
+EX Hard Clear | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:
+Hard Clear    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:                | :x:
+Normal Clear  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:
+Easy Clear    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:
+Played        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:
+||||||||||||||
 
 
 ## 段位認定
 
-### SP
-
-||||
--------------------|------|-----------
-:x:                | 皆伝 |
-:x:                | 十段 |
-:x:                | 九段 |
-:white_check_mark: | 八段 | 2014-01-30
-:white_check_mark: | 七段 | 2014-06-02 &nbsp; ![:V](../split-sections/images/pacman.png)
-:white_check_mark: | 六段 | 2013-02-04
-:white_check_mark: | 五段 | 2013-01-16
-:white_check_mark: | 四段 | 2012-10-28
-:white_check_mark: | 三段 | 2012-10-28
-:white_check_mark: | 二段 | 2012-06-15
-:white_check_mark: | 初段 | 2012-06-15
-:white_check_mark: | 一級 | 2012-06-06
-:white_check_mark: | 二級 | 2012-06-06
-:white_check_mark: | 三級 | 2012-06-06
-:white_check_mark: | 四級 | 2012-06-06
-:white_check_mark: | 五級 | 2012-06-06
-:white_check_mark: | 六級 | 2012-06-06
-:white_check_mark: | 七級 | 2012-06-06
-||||
-
-### DP
-
-||||
--------------------|------|-----------
-:x:                | 皆伝 |
-:x:                | 十段 |
-:x:                | 九段 |
-:x:                | 八段 |
-:x:                | 七段 |
-:white_check_mark: | 六段 | 2013-12-13
-:white_check_mark: | 五段 | 2013-08-31
-:white_check_mark: | 四段 | 2013-05-24
-:white_check_mark: | 三段 | 2013-05-14
-:white_check_mark: | 二段 | 2013-02-11
-:white_check_mark: | 初段 | 2013-01-14
-:white_check_mark: | 一級 | 2012-12-26
-:white_check_mark: | 二級 | 2012-12-26
-:white_check_mark: | 三級 | 2012-12-26
-:white_check_mark: | 四級 | 2012-12-24
-:white_check_mark: | 五級 | 2012-12-24
-||||
+|| SP || DP ||
+:---:|:------------------:|:----------:|:------------------:|:---------:
+皆伝 | :x:                |            | :x:                |
+十段 | :x:                |            | :x:                |
+九段 | :x:                |            | :x:                |
+八段 | :white_check_mark: | 2014-01-30 | :x:                |
+七段 | :white_check_mark: | 2014-06-02 | :x:                |
+六段 | :white_check_mark: | 2013-02-04 | :white_check_mark: | 2013-12-13
+五段 | :white_check_mark: | 2013-01-16 | :white_check_mark: | 2013-08-31
+四段 | :white_check_mark: | 2012-10-28 | :white_check_mark: | 2013-05-24
+三段 | :white_check_mark: | 2012-10-28 | :white_check_mark: | 2013-05-14
+二段 | :white_check_mark: | 2012-06-15 | :white_check_mark: | 2013-02-11
+初段 | :white_check_mark: | 2012-06-15 | :white_check_mark: | 2013-01-14
+一級 | :white_check_mark: | 2012-06-06 | :white_check_mark: | 2012-12-26
+二級 | :white_check_mark: | 2012-06-06 | :white_check_mark: | 2012-12-26
+三級 | :white_check_mark: | 2012-06-06 | :white_check_mark: | 2012-12-26
+四級 | :white_check_mark: | 2012-06-06 | :white_check_mark: | 2012-12-24
+五級 | :white_check_mark: | 2012-06-06 | :white_check_mark: | 2012-12-24
+六級 | :white_check_mark: | 2012-06-06 | ---                | ---
+七級 | :white_check_mark: | 2012-06-06 | ---                | ---
+||||||
 
 
 ## Play Count
