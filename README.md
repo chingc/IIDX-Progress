@@ -1,16 +1,16 @@
-![IIDX Lincle + Real Edition Double](../split-sections/images/lincle.jpg)
+![IIDX Lincle + Real Edition Double](../master/images/lincle.jpg)
 
 
 # The Road to 皆伝
 
 - Single Play
-  - [Level 1-12](../split-sections/sp_1_12.md)
-  - [First!](../split-sections/sp_first.md)
+  - [Level 1-12](../master/sp_1_12.md)
+  - [First!](../master/sp_first.md)
 - Double Play
-  - [Level 1-12](../split-sections/dp_1_12.md)
-  - [First!](../split-sections/dp_first.md)
-- [Patterns, Techniques, Comments](../split-sections/comments.md)
-- [Random Fun Stuff](../split-sections/fun.md)
+  - [Level 1-12](../master/dp_1_12.md)
+  - [First!](../master/dp_first.md)
+- [Patterns, Techniques, Comments](../master/comments.md)
+- [Random Fun Stuff](../master/fun.md)
 
 
 ## Recent Accomplishments
