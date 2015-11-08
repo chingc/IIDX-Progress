@@ -90,7 +90,7 @@ Played        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :
 3,000 | 2013-09-07 |
 2,000 | 2013-03-04 |
 ---   | 2013-01-10 | Made this repo
-1,000 | 2012-10-16 |
 1     | 2012-12-21 | DP Game 1
+1,000 | 2012-10-16 |
 1     | 2011-06-19 | SP Game 1
 ||||
