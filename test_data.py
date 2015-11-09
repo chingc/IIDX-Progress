@@ -207,8 +207,6 @@ class TestData(unittest.TestCase):
                     parsed[section].append(match.group(1, 2))
                 elif found(first_data, line):
                     parsed[section].append(match.group(1, 2, 3))
-                else:
-                    pass
 
         return parsed
 
