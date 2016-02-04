@@ -18,11 +18,11 @@
 ## Recent Accomplishments
 
 SP ||
---------------|-----------
-First 12      | 2015-10-03
-All 5 AA      | 2015-02-14
-All 11 Played | 2015-02-14
-All 6 EXHC    | 2014-12-22
+------------------|-----------
+All 10 Easy Clear | 2016-02-03
+First 12          | 2015-10-03
+All 5 AA          | 2015-02-14
+All 11 Played     | 2015-02-14
 |||
 
 DP ||
@@ -42,7 +42,7 @@ Full Combo    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :
 EX Hard Clear | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:                | :x:
 Hard Clear    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:
 Normal Clear  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:
-Easy Clear    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:
+Easy Clear    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:
 Played        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:
 ||||||||||||||
 

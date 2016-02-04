@@ -11,6 +11,7 @@ class TestData(unittest.TestCase):
             ("Played", "2015-02-14")
         ],
         "Level 10": [
+            ("Easy Clear", "2016-02-03"),
             ("Played", "2014-05-26")
         ],
         "Level 9": [
