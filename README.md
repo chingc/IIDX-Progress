@@ -19,10 +19,10 @@
 
 SP ||
 ------------------|-----------
+九段              | 2016-02-04
 All 10 Easy Clear | 2016-02-03
 First 12          | 2015-10-03
 All 5 AA          | 2015-02-14
-All 11 Played     | 2015-02-14
 |||
 
 DP ||
@@ -63,7 +63,7 @@ Played        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :
 :---:|:------------------:|:----------:|:------------------:|:---------:
 皆伝 | :x:                |            | :x:                |
 十段 | :x:                |            | :x:                |
-九段 | :x:                |            | :x:                |
+九段 | :white_check_mark: | 2016-02-04 | :x:                |
 八段 | :white_check_mark: | 2014-01-30 | :x:                |
 七段 | :white_check_mark: | 2014-06-02 | :x:                |
 六段 | :white_check_mark: | 2013-02-04 | :white_check_mark: | 2013-12-13
