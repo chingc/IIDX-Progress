@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/chingc/IIDX-Progress.svg?branch=master)](https://travis-ci.org/chingc/IIDX-Progress) [![Coverage Status](https://coveralls.io/repos/chingc/IIDX-Progress/badge.svg?branch=verify_data&service=github)](https://coveralls.io/github/chingc/IIDX-Progress?branch=verify_data)
-
 ![IIDX Lincle + Real Edition Double](../master/images/lincle.jpg)
 
 

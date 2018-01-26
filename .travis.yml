@@ -1,7 +1,0 @@
-language: python
-python:
-  - "3.5"
-install:
-  - pip install coveralls
-script: coverage run test_data.py -v
-after_success: coveralls
