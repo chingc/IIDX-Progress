@@ -1,89 +1,168 @@
-![IIDX Lincle + Real Edition Double](../master/images/lincle.jpg)
-
-
 # The Road to 皆伝
 
-- Single Play
-  - [Level 1-12](../master/sp_1_12.md)
-  - [First!](../master/sp_first.md)
-- Double Play
-  - [Level 1-12](../master/dp_1_12.md)
-  - [First!](../master/dp_first.md)
-- [Patterns, Techniques, Comments](../master/comments.md)
-- [Random Fun Stuff](../master/fun.md)
+![IIDX Lincle + Real Edition Double](../master/lincle.jpg)
 
+- [Patterns, Techniques, Comments](../master/comments.md)
 
 ## Recent Accomplishments
 
-SP ||
-------------------|-----------
-九段              | 2016-02-04
-All 10 Easy Clear | 2016-02-03
-First 12          | 2015-10-03
-All 5 AA          | 2015-02-14
-|||
-
-DP ||
------------|-----------
-First 8 FC | 2014-12-21
-All 3 EXHC | 2014-12-21
-All 7 EC   | 2014-06-21
-First 7 FC | 2013-12-28
-|||
-
-
-## Progress Summary
-
-SP            | 1                  | 2                  | 3                  | 4                  | 5                  | 6                  | 7                  | 8                  | 9                  | 10                 | 11                 | 12  
---------------|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:---:
-Full Combo    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:
-EX Hard Clear | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:                | :x:
-Hard Clear    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:
-Normal Clear  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:
-Easy Clear    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:
-Played        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:
-||||||||||||||
-
-DP            | 1                  | 2                  | 3                  | 4                  | 5                  | 6                  | 7                  | 8                  | 9                  | 10                 | 11                 | 12  
---------------|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:------------------:|:---:
-Full Combo    | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:
-EX Hard Clear | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:                | :x:
-Hard Clear    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:                | :x:
-Normal Clear  | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:
-Easy Clear    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:
-Played        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x:                | :x:                | :x:                | :x:                | :x:
-||||||||||||||
-
+- 2017-11-24: DP First 10 (灼熱Beach Side Bunny [H])
+- 2016-02-04: SP 九段
+- 2016-02-03: SP All 10 Easy Clear
+- 2015-10-03: SP First 12 (Innocent Walls [H])
+- 2014-12-21: DP First 8 Full Combo (M.D.Injection [H])
 
 ## 段位認定
 
-|| SP || DP ||
-:---:|:------------------:|:----------:|:------------------:|:---------:
-皆伝 | :x:                |            | :x:                |
-十段 | :x:                |            | :x:                |
-九段 | :white_check_mark: | 2016-02-04 | :x:                |
-八段 | :white_check_mark: | 2014-01-30 | :x:                |
-七段 | :white_check_mark: | 2014-06-02 | :x:                |
-六段 | :white_check_mark: | 2013-02-04 | :white_check_mark: | 2013-12-13
-五段 | :white_check_mark: | 2013-01-16 | :white_check_mark: | 2013-08-31
-四段 | :white_check_mark: | 2012-10-28 | :white_check_mark: | 2013-05-24
-三段 | :white_check_mark: | 2012-10-28 | :white_check_mark: | 2013-05-14
-二段 | :white_check_mark: | 2012-06-15 | :white_check_mark: | 2013-02-11
-初段 | :white_check_mark: | 2012-06-15 | :white_check_mark: | 2013-01-14
-一級 | :white_check_mark: | 2012-06-06 | :white_check_mark: | 2012-12-26
-二級 | :white_check_mark: | 2012-06-06 | :white_check_mark: | 2012-12-26
-三級 | :white_check_mark: | 2012-06-06 | :white_check_mark: | 2012-12-26
-四級 | :white_check_mark: | 2012-06-06 | :white_check_mark: | 2012-12-24
-五級 | :white_check_mark: | 2012-06-06 | :white_check_mark: | 2012-12-24
-六級 | :white_check_mark: | 2012-06-06 | ---                | ---
-七級 | :white_check_mark: | 2012-06-06 | ---                | ---
-||||||
+Rank | 1P Achieved | 2P Achieved | DP Achieved
+:---:|:-----------:|:-----------:|:----------:
+皆伝 ||            |
+十段 ||            |
+九段 || 2016-02-04 |
+八段 || 2014-01-30 |
+七段 || 2014-06-02 |
+六段 || 2013-02-04 | 2013-12-13
+五段 || 2013-01-16 | 2013-08-31
+四段 | 2013-12-01 | 2012-10-28 | 2013-05-24
+三段 | 2013-12-01 | 2012-10-28 | 2013-05-14
+二段 | 2013-12-01 | 2012-06-15 | 2013-02-11
+初段 | 2013-12-01 | 2012-06-15 | 2013-01-14
+一級 | 2013-12-01 | 2012-06-06 | 2012-12-26
+二級 | 2013-12-01 | 2012-06-06 | 2012-12-26
+三級 | 2013-12-01 | 2012-06-06 | 2012-12-26
+四級 | 2013-12-01 | 2012-06-06 | 2012-12-24
+五級 | 2013-12-01 | 2012-06-06 | 2012-12-24
+六級 | 2013-12-01 | 2012-06-06 | ---
+七級 | 2013-12-01 | 2012-06-06 | ---
 
+## SP All Clear Lamps
+
+Level | Played | Easy | Normal | Hard | EX Hard | Full Combo
+:----:|:------:|:----:|:------:|:----:|:-------:|:---------:
+12 ||||||
+11 | 2015-02-14 |||||
+10 | 2014-05-26 | 2016-02-03 ||||
+9 | 2013-03-08 | 2013-08-30 | 2013-08-30 |||
+8 | 2013-01-06 | 2013-09-02 | 2014-01-17 |||
+7 | 2012-10-06 | 2013-02-12 | 2013-02-12 | 2013-12-07 ||
+6 | 2012-09-23 | 2013-01-07 | 2013-01-07 | 2013-03-17 | 2014-12-22 |
+5 | 2012-06-01 | 2012-06-08 | 2012-06-08 | 2013-01-14 | 2013-09-02 |
+4 | 2012-05-21 | 2012-06-15 | 2012-06-15 | 2012-12-01 | 2013-06-07 | 2014-11-23
+3 | 2011-11-13 | 2011-11-17 | 2011-11-17 | 2011-11-27 | 2012-11-21 | 2013-08-18
+2 | 2011-08-03 | 2011-08-03 | 2011-08-03 | 2011-08-03 | 2012-11-15 | 2012-11-15
+1 | 2011-06-19 | 2011-07-16 | 2011-07-16 | 2011-07-16 | 2012-11-12 | 2012-11-12
+
+## SP 1st AAA
+
+Level | Achieved | Song
+:----:|:--------:|:----
+12 ||
+11 ||
+10 ||
+9 | 2014-10-19 | the trigger of innocence [A]
+8 | 2013-11-10 | PROMISE FOR LIFE [A]
+1 | 2012-06-03 | I FIGHT ME [N]
+
+## SP 1st Full Combo
+
+Level | Achieved | Song
+:----:|:--------:|:----
+12 ||
+11 ||
+10 ||
+9 | 2014-05-11 | We are Disっ娘よっつ打ち命 [A]
+8 | 2013-02-25 | One of A Kind [H]
+1 | 2011-07-21 | FLOWERS for ALBION [N]
+
+## SP 1st New Level
+
+Level | Achieved | Song
+:----:|:--------:|:----
+12 | 2015-10-03 | Innocent Walls [H]
+11 | 2013-05-23 | Halfway of promise [A]
+10 | 2013-02-05 | PHOTONGENIC [H]
+9 | 2013-01-15 | quasar [H]
+8 | 2012-06-23 | ЁVOLUTIΦN [H]
+
+## DP All Clear Lamps
+
+Level | Played | Easy | Normal | Hard | EX Hard | Full Combo
+:----:|:------:|:----:|:------:|:----:|:-------:|:---------:
+12 ||||||
+11 ||||||
+10 ||||||
+9 ||||||
+8 ||||||
+7 | 2014-01-23 | 2014-06-21 ||||
+6 | 2013-02-22 | 2013-12-18 | 2013-12-18 | 2013-12-19 ||
+5 | 2013-01-24 | 2013-05-24 | 2013-05-24 | 2013-10-19 ||
+4 | 2012-12-25 | 2013-02-05 | 2013-02-05 | 2013-02-05 ||
+3 | 2012-12-22 | 2013-02-01 | 2013-02-01 | 2013-02-01 | 2014-12-21 |
+2 | 2012-12-21 | 2012-12-21 | 2012-12-21 | 2013-01-24 | 2013-03-19 | 2013-03-19
+1 | 2012-12-21 | 2012-12-21 | 2012-12-21 | 2013-01-24 | 2013-01-24 | 2013-01-24
+
+## DP 1st AAA
+
+Level | Achieved | Song
+:----:|:--------:|:----
+12 ||
+11 ||
+10 ||
+9 ||
+8 ||
+7 ||
+1 | 2013-05-15 | 8bit Princess [N]
+
+## DP 1st Full Combo
+
+Level | Achieved | Song
+:----:|:--------:|:----
+12 ||
+11 ||
+10 ||
+9 ||
+8 | 2014-12-21 | M.D.Injection [H]
+7 | 2013-12-28 | EXTREMA PT.2 [H]
+1 | 2012-12-21 | GAMBOL [N]
+
+## DP 1st New Level
+
+Level | Achieved | Song
+:----:|:--------:|:----
+12 ||
+11 ||
+10 | 2017-11-24 | 灼熱Beach Side Bunny [H]
+9 | 2013-11-27 | MAX LOVE [H]
+8 | 2013-09-15 | Survival Games [H]
+7 | 2013-02-22 | Drive Me Crazy [H]
+
+## 1-Handed 段位認定
+
+Rank | 1P Achieved | 2P Achieved
+:---:|:-----------:|:----------:
+皆伝 ||
+十段 ||
+九段 ||
+八段 ||
+七段 ||
+六段 ||
+五段 ||
+四段 ||
+三段 ||
+二段 ||
+初段 | 2014-01-15 | 2013-10-05
+一級 | 2013-10-05 | 2013-10-05
+二級 | 2013-10-05 | 2013-10-05
+三級 | 2013-10-05 | 2013-10-05
+四級 | 2013-10-05 | 2013-10-05
+五級 | 2013-10-05 | 2013-10-05
+六級 | 2013-10-05 | 2013-10-05
+七級 | 2013-10-05 | 2013-10-05
 
 ## Play Count
 
-||||
------:|------------|---------------
+Count | Achieved | Note
+:----:|:--------:|:----
 5,781 | 2015-03-08 | PW Closes
 5,000 | 2014-09-05 |
 4,000 | 2014-01-02 |
@@ -93,4 +172,3 @@ Played        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :
 1     | 2012-12-21 | DP Game 1
 1,000 | 2012-10-16 |
 1     | 2011-06-19 | SP Game 1
-||||
