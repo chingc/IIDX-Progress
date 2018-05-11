@@ -12,6 +12,31 @@
 - 2015-10-03: SP First 12 (Innocent Walls [H])
 - 2014-12-21: DP First 8 Full Combo (M.D.Injection [H])
 
+## Current Goals
+
+- [ ] Regain SP 八段
+- [ ] Regain SP 九段
+- [ ] SP 十段
+- [ ] DP 七段
+- [ ] SP 11 Easy Clear
+- [ ] SP 10 Full Combo
+- [ ] SP 10 AAA
+- [ ] SP 10 Normal Clear
+- [ ] SP 9 Hard Clear
+- [ ] SP 8 Hard Clear
+- [ ] SP 7 EX Hard Clear
+- [ ] SP 6 Full Combo
+- [ ] SP 5 Full Combo
+- [ ] DP 9 Full Combo
+- [ ] DP 8 Played
+- [ ] DP 7 AAA
+- [ ] DP 7 Normal Clear
+- [ ] DP 6 EX Hard Clear
+- [ ] DP 5 EX Hard Clear
+- [ ] DP 4 EX Hard Clear
+- [ ] DP 3 Full Combo
+- [ ] DP 11 First
+
 ## 段位認定
 
 Rank | 1P Achieved | 2P Achieved | DP Achieved
