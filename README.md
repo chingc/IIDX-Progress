@@ -1,4 +1,4 @@
-# The Road to 皆伝
+# The Road to 皆伝 ![SP 七段](https://img.shields.io/badge/SP-七段-brightgreen.svg) ![DP 六段](https://img.shields.io/badge/DP-六段-brightgreen.svg)
 
 ![IIDX Lincle + Real Edition Double](../master/lincle.jpg)
 
@@ -14,28 +14,28 @@
 
 ## Current Goals
 
-- [ ] Regain SP 八段
-- [ ] Regain SP 九段
 - [ ] SP 十段
+- [ ] Regain SP 九段
+- [ ] Regain SP 八段
+- [ ] SP 11 All Easy Clear
+- [ ] SP 10 One Full Combo
+- [ ] SP 10 One AAA
+- [ ] SP 10 All Normal Clear
+- [ ] SP 9 All Hard Clear
+- [ ] SP 8 All Hard Clear
+- [ ] SP 7 All EX Hard Clear
+- [ ] SP 6 All Full Combo
+- [ ] SP 5 All Full Combo
 - [ ] DP 七段
-- [ ] SP 11 Easy Clear
-- [ ] SP 10 Full Combo
-- [ ] SP 10 AAA
-- [ ] SP 10 Normal Clear
-- [ ] SP 9 Hard Clear
-- [ ] SP 8 Hard Clear
-- [ ] SP 7 EX Hard Clear
-- [ ] SP 6 Full Combo
-- [ ] SP 5 Full Combo
-- [ ] DP 9 Full Combo
-- [ ] DP 8 Played
-- [ ] DP 7 AAA
-- [ ] DP 7 Normal Clear
-- [ ] DP 6 EX Hard Clear
-- [ ] DP 5 EX Hard Clear
-- [ ] DP 4 EX Hard Clear
-- [ ] DP 3 Full Combo
 - [ ] DP 11 First
+- [ ] DP 9 One Full Combo
+- [ ] DP 8 All Played
+- [ ] DP 7 One AAA
+- [ ] DP 7 All Normal Clear
+- [ ] DP 6 All EX Hard Clear
+- [ ] DP 5 All EX Hard Clear
+- [ ] DP 4 All EX Hard Clear
+- [ ] DP 3 All Full Combo
 
 ## 段位認定
 
