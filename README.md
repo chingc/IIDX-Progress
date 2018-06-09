@@ -1,4 +1,4 @@
-# The Road to 皆伝 ![SP 七段](https://img.shields.io/badge/SP-七段-brightgreen.svg) ![DP 六段](https://img.shields.io/badge/DP-六段-brightgreen.svg)
+# The Road to 皆伝 ![SP 七段](https://img.shields.io/badge/SP-七段-brightgreen.svg) ![DP 七段](https://img.shields.io/badge/DP-七段-brightgreen.svg)
 
 ![IIDX Lincle + Real Edition Double](../master/lincle.jpg)
 
@@ -6,11 +6,11 @@
 
 ## Recent Accomplishments
 
+- 2018-06-08: DP 七段
 - 2017-11-24: DP First 10 (灼熱Beach Side Bunny [H])
 - 2016-02-04: SP 九段
 - 2016-02-03: SP All 10 Easy Clear
 - 2015-10-03: SP First 12 (Innocent Walls [H])
-- 2014-12-21: DP First 8 Full Combo (M.D.Injection [H])
 
 ## Current Goals
 
@@ -26,7 +26,7 @@
 - [ ] SP 7 All EX Hard Clear
 - [ ] SP 6 All Full Combo
 - [ ] SP 5 All Full Combo
-- [ ] DP 七段
+- [ ] DP 八段
 - [ ] DP 11 First
 - [ ] DP 9 One Full Combo
 - [ ] DP 8 All Played
@@ -45,7 +45,7 @@ Rank | 1P Achieved | 2P Achieved | DP Achieved
 十段 ||            |
 九段 || 2016-02-04 |
 八段 || 2014-01-30 |
-七段 || 2014-06-02 |
+七段 || 2014-06-02 | 2018-06-08
 六段 || 2013-02-04 | 2013-12-13
 五段 || 2013-01-16 | 2013-08-31
 四段 | 2013-12-01 | 2012-10-28 | 2013-05-24
