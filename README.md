@@ -1,6 +1,6 @@
 # The Road to 皆伝
 
-![SP 七段](https://img.shields.io/badge/SP-七段-brightgreen.svg) ![DP 七段](https://img.shields.io/badge/DP-七段-brightgreen.svg)
+![SP 七段](https://img.shields.io/badge/SP-八段-brightgreen.svg) ![DP 七段](https://img.shields.io/badge/DP-七段-brightgreen.svg)
 
 ![IIDX Lincle + Real Edition Double](./lincle.jpg)
 
@@ -8,35 +8,34 @@
 
 ## Recent Accomplishments
 
+- 2018-06-22: Regain SP 八段
 - 2018-06-10: DP 3 All Full Combo
 - 2018-06-08: DP 七段
 - 2017-11-24: DP First 10 (灼熱Beach Side Bunny [H])
 - 2016-02-04: SP 九段
-- 2016-02-03: SP All 10 Easy Clear
 
 ## Current Goals
 
-- [ ] SP 十段
-- [ ] Regain SP 九段
-- [ ] Regain SP 八段
-- [ ] SP 11 All Easy Clear
-- [ ] SP 10 One Full Combo
-- [ ] SP 10 One AAA
-- [ ] SP 10 All Normal Clear
-- [ ] SP 9 All Hard Clear
-- [ ] SP 8 All Hard Clear
-- [ ] SP 7 All EX Hard Clear
-- [ ] SP 6 All Full Combo
-- [ ] SP 5 All Full Combo
-- [ ] DP 八段
-- [ ] DP 11 First
-- [ ] DP 9 One Full Combo
-- [ ] DP 8 All Played
-- [ ] DP 7 One AAA
-- [ ] DP 7 All Normal Clear
-- [ ] DP 6 All EX Hard Clear
-- [ ] DP 5 All EX Hard Clear
-- [ ] DP 4 All EX Hard Clear
+- SP 十段
+- Regain SP 九段
+- SP 11 All Easy Clear
+- SP 10 One Full Combo
+- SP 10 One AAA
+- SP 10 All Normal Clear
+- SP 9 All Hard Clear
+- SP 8 All Hard Clear
+- SP 7 All EX Hard Clear
+- SP 6 All Full Combo
+- SP 5 All Full Combo
+- DP 八段
+- DP 11 First
+- DP 9 One Full Combo
+- DP 8 All Played
+- DP 7 One AAA
+- DP 7 All Normal Clear
+- DP 6 All EX Hard Clear
+- DP 5 All EX Hard Clear
+- DP 4 All EX Hard Clear
 
 ## 段位認定
 
