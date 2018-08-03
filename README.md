@@ -2,7 +2,7 @@
 
 ![SP 七段](https://img.shields.io/badge/SP-八段-brightgreen.svg) ![DP 七段](https://img.shields.io/badge/DP-七段-brightgreen.svg)
 
-![IIDX Lincle + Real Edition Double](./lincle.jpg)
+![IIDX Lincle + Real Edition Double](./tricoro.jpg)
 
 - [Patterns, Techniques, Comments](./comments.md)
 
