@@ -19,16 +19,16 @@
 - SP 十段
 - Regain SP 九段
 - SP 11 All Easy Clear
-- SP 10 One Full Combo
-- SP 10 One AAA
+- SP 10 Full Combo
+- SP 10 AAA
 - SP 10 All Normal Clear
 - SP [8, 9] All Hard Clear
 - SP [5, 6, 7] All Full Combo
 - DP 八段
 - DP 11 First
-- DP 9 One Full Combo
+- DP 9 Full Combo
 - DP 8 All Played
-- DP 7 One AAA
+- DP 7 AAA
 - DP 7 All Normal Clear
 - DP [4, 5, 6] All Full Combo
 
@@ -156,7 +156,6 @@ SP | Date | Song
 10 |
 9  | 2014-10-19 | the trigger of innocence [A]
 8  | 2013-11-10 | PROMISE FOR LIFE [A]
-1  | 2012-06-03 | I FIGHT ME [N]
 
 DP | Date | Song
 :-:|:----:|:----
@@ -166,7 +165,6 @@ DP | Date | Song
 9  |
 8  |
 7  |
-1  | 2013-05-15 | 8bit Princess [N]
 
 ## 1st Full Combo
 
@@ -177,7 +175,6 @@ SP | Date | Song
 10 |
 9  | 2014-05-11 | We are Disっ娘よっつ打ち命 [A]
 8  | 2013-02-25 | One of A Kind [H]
-1  | 2011-07-21 | FLOWERS for ALBION [N]
 
 DP | Date | Song
 :-:|:----:|:----
@@ -187,7 +184,6 @@ DP | Date | Song
 9  |
 8  | 2014-12-21 | M.D.Injection [H]
 7  | 2013-12-28 | EXTREMA PT.2 [H]
-1  | 2012-12-21 | GAMBOL [N]
 
 ## 1st New Level
 
