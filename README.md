@@ -19,13 +19,11 @@
 - SP 十段
 - Regain SP 九段
 - SP 11 All Easy Clear
-- SP 10 Full Combo
 - SP 10 All Normal Clear
 - SP [8, 9] All Hard Clear
 - SP [5, 6, 7] All Full Combo
 - DP 八段
 - DP 11 First
-- DP 9 Full Combo
 - DP 8 All Played
 - DP 7 All Normal Clear
 - DP [4, 5, 6] All Full Combo
@@ -144,25 +142,6 @@ DP | Played | Easy | Normal | Hard | Full Combo
 2nd style         |
 substream         |
 1st style         | 2018-06-20 |
-
-## 1st Full Combo
-
-SP | Date | Song
-:-:|:----:|:----
-12 |
-11 |
-10 |
-9  | 2014-05-11 | We are Disっ娘よっつ打ち命 [A]
-8  | 2013-02-25 | One of A Kind [H]
-
-DP | Date | Song
-:-:|:----:|:----
-12 |
-11 |
-10 |
-9  |
-8  | 2014-12-21 | M.D.Injection [H]
-7  | 2013-12-28 | EXTREMA PT.2 [H]
 
 ## 1st New Level
 
