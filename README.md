@@ -20,7 +20,6 @@
 - Regain SP 九段
 - SP 11 All Easy Clear
 - SP 10 Full Combo
-- SP 10 AAA
 - SP 10 All Normal Clear
 - SP [8, 9] All Hard Clear
 - SP [5, 6, 7] All Full Combo
@@ -28,7 +27,6 @@
 - DP 11 First
 - DP 9 Full Combo
 - DP 8 All Played
-- DP 7 AAA
 - DP 7 All Normal Clear
 - DP [4, 5, 6] All Full Combo
 
@@ -146,25 +144,6 @@ DP | Played | Easy | Normal | Hard | Full Combo
 2nd style         |
 substream         |
 1st style         | 2018-06-20 |
-
-## 1st AAA
-
-SP | Date | Song
-:-:|:----:|:----
-12 |
-11 |
-10 |
-9  | 2014-10-19 | the trigger of innocence [A]
-8  | 2013-11-10 | PROMISE FOR LIFE [A]
-
-DP | Date | Song
-:-:|:----:|:----
-12 |
-11 |
-10 |
-9  |
-8  |
-7  |
 
 ## 1st Full Combo
 
