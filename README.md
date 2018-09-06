@@ -83,66 +83,6 @@ DP | Played | Easy | Normal | Hard | Full Combo
 2  | 2012-12-21 | 2012-12-21 | 2012-12-21 | 2013-01-24 | 2013-03-19
 1  | 2012-12-21 | 2012-12-21 | 2012-12-21 | 2013-01-24 | 2013-01-24
 
-## Clear Lamp (by Game)
-
-SP | Played | Easy | Normal | Hard | Full Combo
-:--|:------:|:----:|:------:|:----:|:---------:
-25 CANNON BALLERS |
-24 SINOBUZ        |
-23 copula         |
-22 PENDUAL        |
-21 SPADA          |
-20 tricoro        |
-19 Lincle         |
-18 Resort Anthem  |
-17 SIRIUS         |
-16 EMPRESS        |
-15 DJ TROOPERS    |
-14 GOLD           |
-13 DistorteD      |
-12 HAPPY SKY      |
-11 IIDX RED       |
-10th style        |
-9th style         |
-8th style         |
-7th style         |
-6th style         |
-5th style         |
-4th style         |
-3rd style         |
-2nd style         |
-substream         |
-1st style         | 2018-06-20 |
-
-DP | Played | Easy | Normal | Hard | Full Combo
-:--|:------:|:----:|:------:|:----:|:---------:
-25 CANNON BALLERS |
-24 SINOBUZ        |
-23 copula         |
-22 PENDUAL        |
-21 SPADA          |
-20 tricoro        |
-19 Lincle         |
-18 Resort Anthem  |
-17 SIRIUS         |
-16 EMPRESS        |
-15 DJ TROOPERS    |
-14 GOLD           |
-13 DistorteD      |
-12 HAPPY SKY      |
-11 IIDX RED       |
-10th style        |
-9th style         |
-8th style         |
-7th style         |
-6th style         |
-5th style         |
-4th style         |
-3rd style         |
-2nd style         |
-substream         |
-1st style         | 2018-06-20 |
-
 ## 1st New Level
 
 SP | Date | Song
