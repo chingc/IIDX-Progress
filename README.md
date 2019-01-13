@@ -8,11 +8,11 @@
 
 ## Recent Accomplishments
 
+- 2019-01-04: DP First 11 (冥 [H])
 - 2018-06-22: Regain SP 八段
 - 2018-06-10: DP 3 All Full Combo
 - 2018-06-08: DP 七段
 - 2017-11-24: DP First 10 (灼熱Beach Side Bunny [H])
-- 2016-02-04: SP 九段
 
 ## Current Goals
 
@@ -23,7 +23,6 @@
 - SP [8, 9] All Hard Clear
 - SP [5, 6, 7] All Full Combo
 - DP 八段
-- DP 11 First
 - DP 8 All Played
 - DP 7 All Normal Clear
 - DP [4, 5, 6] All Full Combo
@@ -96,7 +95,7 @@ SP | Date | Song
 DP | Date | Song
 :-:|:----:|:----
 12 |
-11 |
+11 | 2019-01-04 | 冥 [H]
 10 | 2017-11-24 | 灼熱Beach Side Bunny [H]
 9  | 2013-11-27 | MAX LOVE [H]
 8  | 2013-09-15 | Survival Games [H]
