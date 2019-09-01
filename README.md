@@ -8,22 +8,20 @@
 
 ## Recent Accomplishments
 
+- 2019-08-17: DP 8 All Played
 - 2019-01-04: DP First 11 (冥 [H])
 - 2018-06-22: Regain SP 八段
 - 2018-06-10: DP 3 All Full Combo
 - 2018-06-08: DP 七段
-- 2017-11-24: DP First 10 (灼熱Beach Side Bunny [H])
 
 ## Current Goals
 
-- SP 十段
 - Regain SP 九段
-- SP 11 All Easy Clear
 - SP 10 All Normal Clear
 - SP [8, 9] All Hard Clear
 - SP [5, 6, 7] All Full Combo
 - DP 八段
-- DP 8 All Played
+- DP 8 All Easy Clear
 - DP 7 All Normal Clear
 - DP [4, 5, 6] All Full Combo
 
@@ -50,9 +48,9 @@ Rank | 1P | 2P | DP | 片手 1P | 片手 2P
 六級 | 2013-12-01 | 2012-06-06 | n/a | 2013-10-05 | 2013-10-05
 七級 | 2013-12-01 | 2012-06-06 | n/a | 2013-10-05 | 2013-10-05
 
-## Clear Lamp (by Level)
+## SP Clear Lamp
 
-SP | Played | Easy | Normal | Hard | Full Combo
+Lv | Played | Easy | Normal | Hard | Full Combo
 :-:|:------:|:----:|:------:|:----:|:---------:
 12 |
 11 | 2015-02-14 |
@@ -67,13 +65,15 @@ SP | Played | Easy | Normal | Hard | Full Combo
 2  | 2011-08-03 | 2011-08-03 | 2011-08-03 | 2011-08-03 | 2012-11-15
 1  | 2011-06-19 | 2011-07-16 | 2011-07-16 | 2011-07-16 | 2012-11-12
 
-DP | Played | Easy | Normal | Hard | Full Combo
+## DP Clear Lamp
+
+Lv | Played | Easy | Normal | Hard | Full Combo
 :-:|:------:|:----:|:------:|:----:|:---------:
 12 |
 11 |
 10 |
 9  |
-8  |
+8  | 2019-08-17
 7  | 2014-01-23 | 2014-06-21 |
 6  | 2013-02-22 | 2013-12-18 | 2013-12-18 | 2013-12-19 |
 5  | 2013-01-24 | 2013-05-24 | 2013-05-24 | 2013-10-19 |
@@ -82,9 +82,9 @@ DP | Played | Easy | Normal | Hard | Full Combo
 2  | 2012-12-21 | 2012-12-21 | 2012-12-21 | 2013-01-24 | 2013-03-19
 1  | 2012-12-21 | 2012-12-21 | 2012-12-21 | 2013-01-24 | 2013-01-24
 
-## 1st New Level
+## SP 1st New Level
 
-SP | Date | Song
+Lv | Date | Song
 :-:|:----:|:----
 12 | 2015-10-03 | Innocent Walls [H]
 11 | 2013-05-23 | Halfway of promise [A]
@@ -92,7 +92,9 @@ SP | Date | Song
 9  | 2013-01-15 | quasar [H]
 8  | 2012-06-23 | ЁVOLUTIΦN [H]
 
-DP | Date | Song
+## DP 1st New Level
+
+Lv | Date | Song
 :-:|:----:|:----
 12 |
 11 | 2019-01-04 | 冥 [H]
