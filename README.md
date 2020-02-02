@@ -8,6 +8,7 @@
 
 ## Recent Accomplishments
 
+- 2019-10-26: DP 7 All Normal Clear
 - 2019-08-17: DP 8 All Played
 - 2019-01-04: DP First 11 (冥 [H])
 - 2018-06-22: Regain SP 八段
@@ -22,7 +23,7 @@
 - SP [5, 6, 7] All Full Combo
 - DP 八段
 - DP 8 All Easy Clear
-- DP 7 All Normal Clear
+- DP 7 All Hard Clear
 - DP [4, 5, 6] All Full Combo
 
 ## 段位認定
@@ -74,7 +75,7 @@ Lv | Played | Easy | Normal | Hard | Full Combo
 10 |
 9  |
 8  | 2019-08-17
-7  | 2014-01-23 | 2014-06-21 |
+7  | 2014-01-23 | 2014-06-21 | 2019-10-26 |
 6  | 2013-02-22 | 2013-12-18 | 2013-12-18 | 2013-12-19 |
 5  | 2013-01-24 | 2013-05-24 | 2013-05-24 | 2013-10-19 |
 4  | 2012-12-25 | 2013-02-05 | 2013-02-05 | 2013-02-05 |
